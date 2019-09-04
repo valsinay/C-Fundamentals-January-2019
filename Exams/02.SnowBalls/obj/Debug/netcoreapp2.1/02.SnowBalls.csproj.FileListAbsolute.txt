@@ -1,0 +1,10 @@
+C:\Users\Yanislav\source\repos\Exams\02.SnowBalls\bin\Debug\netcoreapp2.1\02.SnowBalls.deps.json
+C:\Users\Yanislav\source\repos\Exams\02.SnowBalls\bin\Debug\netcoreapp2.1\02.SnowBalls.runtimeconfig.json
+C:\Users\Yanislav\source\repos\Exams\02.SnowBalls\bin\Debug\netcoreapp2.1\02.SnowBalls.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\Exams\02.SnowBalls\bin\Debug\netcoreapp2.1\02.SnowBalls.dll
+C:\Users\Yanislav\source\repos\Exams\02.SnowBalls\bin\Debug\netcoreapp2.1\02.SnowBalls.pdb
+C:\Users\Yanislav\source\repos\Exams\02.SnowBalls\obj\Debug\netcoreapp2.1\02.SnowBalls.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\Exams\02.SnowBalls\obj\Debug\netcoreapp2.1\02.SnowBalls.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\Exams\02.SnowBalls\obj\Debug\netcoreapp2.1\02.SnowBalls.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\Exams\02.SnowBalls\obj\Debug\netcoreapp2.1\02.SnowBalls.dll
+C:\Users\Yanislav\source\repos\Exams\02.SnowBalls\obj\Debug\netcoreapp2.1\02.SnowBalls.pdb

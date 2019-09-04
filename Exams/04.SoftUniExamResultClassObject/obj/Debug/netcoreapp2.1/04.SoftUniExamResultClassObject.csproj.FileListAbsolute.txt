@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\Exams\04.SoftUniExamResultClassObject\bin\Debug\netcoreapp2.1\04.SoftUniExamResultClassObject.deps.json
+C:\Users\Yanislav\source\repos\Exams\04.SoftUniExamResultClassObject\bin\Debug\netcoreapp2.1\04.SoftUniExamResultClassObject.runtimeconfig.json
+C:\Users\Yanislav\source\repos\Exams\04.SoftUniExamResultClassObject\bin\Debug\netcoreapp2.1\04.SoftUniExamResultClassObject.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\Exams\04.SoftUniExamResultClassObject\bin\Debug\netcoreapp2.1\04.SoftUniExamResultClassObject.dll
+C:\Users\Yanislav\source\repos\Exams\04.SoftUniExamResultClassObject\bin\Debug\netcoreapp2.1\04.SoftUniExamResultClassObject.pdb
+C:\Users\Yanislav\source\repos\Exams\04.SoftUniExamResultClassObject\obj\Debug\netcoreapp2.1\04.SoftUniExamResultClassObject.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\Exams\04.SoftUniExamResultClassObject\obj\Debug\netcoreapp2.1\04.SoftUniExamResultClassObject.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\Exams\04.SoftUniExamResultClassObject\obj\Debug\netcoreapp2.1\04.SoftUniExamResultClassObject.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\Exams\04.SoftUniExamResultClassObject\obj\Debug\netcoreapp2.1\04.SoftUniExamResultClassObject.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\Exams\04.SoftUniExamResultClassObject\obj\Debug\netcoreapp2.1\04.SoftUniExamResultClassObject.dll
+C:\Users\Yanislav\source\repos\Exams\04.SoftUniExamResultClassObject\obj\Debug\netcoreapp2.1\04.SoftUniExamResultClassObject.pdb

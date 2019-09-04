@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\BasicSyntax\10.RageExpenses\bin\Debug\netcoreapp2.1\10.RageExpenses.deps.json
+C:\Users\Yanislav\source\repos\BasicSyntax\10.RageExpenses\bin\Debug\netcoreapp2.1\10.RageExpenses.runtimeconfig.json
+C:\Users\Yanislav\source\repos\BasicSyntax\10.RageExpenses\bin\Debug\netcoreapp2.1\10.RageExpenses.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\BasicSyntax\10.RageExpenses\bin\Debug\netcoreapp2.1\10.RageExpenses.dll
+C:\Users\Yanislav\source\repos\BasicSyntax\10.RageExpenses\bin\Debug\netcoreapp2.1\10.RageExpenses.pdb
+C:\Users\Yanislav\source\repos\BasicSyntax\10.RageExpenses\obj\Debug\netcoreapp2.1\10.RageExpenses.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\BasicSyntax\10.RageExpenses\obj\Debug\netcoreapp2.1\10.RageExpenses.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\BasicSyntax\10.RageExpenses\obj\Debug\netcoreapp2.1\10.RageExpenses.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\BasicSyntax\10.RageExpenses\obj\Debug\netcoreapp2.1\10.RageExpenses.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\BasicSyntax\10.RageExpenses\obj\Debug\netcoreapp2.1\10.RageExpenses.dll
+C:\Users\Yanislav\source\repos\BasicSyntax\10.RageExpenses\obj\Debug\netcoreapp2.1\10.RageExpenses.pdb

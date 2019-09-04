@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\05.ExcelFunctions\bin\Debug\netcoreapp2.1\05.ExcelFunctions.deps.json
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\05.ExcelFunctions\bin\Debug\netcoreapp2.1\05.ExcelFunctions.runtimeconfig.json
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\05.ExcelFunctions\bin\Debug\netcoreapp2.1\05.ExcelFunctions.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\05.ExcelFunctions\bin\Debug\netcoreapp2.1\05.ExcelFunctions.dll
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\05.ExcelFunctions\bin\Debug\netcoreapp2.1\05.ExcelFunctions.pdb
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\05.ExcelFunctions\obj\Debug\netcoreapp2.1\05.ExcelFunctions.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\05.ExcelFunctions\obj\Debug\netcoreapp2.1\05.ExcelFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\05.ExcelFunctions\obj\Debug\netcoreapp2.1\05.ExcelFunctions.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\05.ExcelFunctions\obj\Debug\netcoreapp2.1\05.ExcelFunctions.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\05.ExcelFunctions\obj\Debug\netcoreapp2.1\05.ExcelFunctions.dll
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\05.ExcelFunctions\obj\Debug\netcoreapp2.1\05.ExcelFunctions.pdb

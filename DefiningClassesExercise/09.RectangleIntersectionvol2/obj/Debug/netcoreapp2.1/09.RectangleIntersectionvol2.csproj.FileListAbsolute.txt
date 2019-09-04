@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\09.RectangleIntersectionvol2\bin\Debug\netcoreapp2.1\09.RectangleIntersectionvol2.deps.json
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\09.RectangleIntersectionvol2\bin\Debug\netcoreapp2.1\09.RectangleIntersectionvol2.runtimeconfig.json
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\09.RectangleIntersectionvol2\bin\Debug\netcoreapp2.1\09.RectangleIntersectionvol2.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\09.RectangleIntersectionvol2\bin\Debug\netcoreapp2.1\09.RectangleIntersectionvol2.dll
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\09.RectangleIntersectionvol2\bin\Debug\netcoreapp2.1\09.RectangleIntersectionvol2.pdb
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\09.RectangleIntersectionvol2\obj\Debug\netcoreapp2.1\09.RectangleIntersectionvol2.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\09.RectangleIntersectionvol2\obj\Debug\netcoreapp2.1\09.RectangleIntersectionvol2.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\09.RectangleIntersectionvol2\obj\Debug\netcoreapp2.1\09.RectangleIntersectionvol2.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\09.RectangleIntersectionvol2\obj\Debug\netcoreapp2.1\09.RectangleIntersectionvol2.dll
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\09.RectangleIntersectionvol2\obj\Debug\netcoreapp2.1\09.RectangleIntersectionvol2.pdb
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\09.RectangleIntersectionvol2\obj\Debug\netcoreapp2.1\09.RectangleIntersectionvol2.csprojAssemblyReference.cache

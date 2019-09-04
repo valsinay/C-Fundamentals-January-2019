@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\ArraysExercise\1.Train\bin\Debug\netcoreapp2.1\1.Train.deps.json
+C:\Users\Yanislav\source\repos\ArraysExercise\1.Train\bin\Debug\netcoreapp2.1\1.Train.runtimeconfig.json
+C:\Users\Yanislav\source\repos\ArraysExercise\1.Train\bin\Debug\netcoreapp2.1\1.Train.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\ArraysExercise\1.Train\bin\Debug\netcoreapp2.1\1.Train.dll
+C:\Users\Yanislav\source\repos\ArraysExercise\1.Train\bin\Debug\netcoreapp2.1\1.Train.pdb
+C:\Users\Yanislav\source\repos\ArraysExercise\1.Train\obj\Debug\netcoreapp2.1\1.Train.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\ArraysExercise\1.Train\obj\Debug\netcoreapp2.1\1.Train.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\ArraysExercise\1.Train\obj\Debug\netcoreapp2.1\1.Train.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\ArraysExercise\1.Train\obj\Debug\netcoreapp2.1\1.Train.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\ArraysExercise\1.Train\obj\Debug\netcoreapp2.1\1.Train.dll
+C:\Users\Yanislav\source\repos\ArraysExercise\1.Train\obj\Debug\netcoreapp2.1\1.Train.pdb

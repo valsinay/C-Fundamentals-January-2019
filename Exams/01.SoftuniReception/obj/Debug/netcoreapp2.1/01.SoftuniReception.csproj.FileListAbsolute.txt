@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\Exams\01.SoftuniReception\bin\Debug\netcoreapp2.1\01.SoftuniReception.deps.json
+C:\Users\Yanislav\source\repos\Exams\01.SoftuniReception\bin\Debug\netcoreapp2.1\01.SoftuniReception.runtimeconfig.json
+C:\Users\Yanislav\source\repos\Exams\01.SoftuniReception\bin\Debug\netcoreapp2.1\01.SoftuniReception.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\Exams\01.SoftuniReception\bin\Debug\netcoreapp2.1\01.SoftuniReception.dll
+C:\Users\Yanislav\source\repos\Exams\01.SoftuniReception\bin\Debug\netcoreapp2.1\01.SoftuniReception.pdb
+C:\Users\Yanislav\source\repos\Exams\01.SoftuniReception\obj\Debug\netcoreapp2.1\01.SoftuniReception.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\Exams\01.SoftuniReception\obj\Debug\netcoreapp2.1\01.SoftuniReception.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\Exams\01.SoftuniReception\obj\Debug\netcoreapp2.1\01.SoftuniReception.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\Exams\01.SoftuniReception\obj\Debug\netcoreapp2.1\01.SoftuniReception.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\Exams\01.SoftuniReception\obj\Debug\netcoreapp2.1\01.SoftuniReception.dll
+C:\Users\Yanislav\source\repos\Exams\01.SoftuniReception\obj\Debug\netcoreapp2.1\01.SoftuniReception.pdb

@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\Exams\09.IronGilder\bin\Debug\netcoreapp2.1\09.IronGilder.deps.json
+C:\Users\Yanislav\source\repos\Exams\09.IronGilder\bin\Debug\netcoreapp2.1\09.IronGilder.runtimeconfig.json
+C:\Users\Yanislav\source\repos\Exams\09.IronGilder\bin\Debug\netcoreapp2.1\09.IronGilder.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\Exams\09.IronGilder\bin\Debug\netcoreapp2.1\09.IronGilder.dll
+C:\Users\Yanislav\source\repos\Exams\09.IronGilder\bin\Debug\netcoreapp2.1\09.IronGilder.pdb
+C:\Users\Yanislav\source\repos\Exams\09.IronGilder\obj\Debug\netcoreapp2.1\09.IronGilder.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\Exams\09.IronGilder\obj\Debug\netcoreapp2.1\09.IronGilder.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\Exams\09.IronGilder\obj\Debug\netcoreapp2.1\09.IronGilder.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\Exams\09.IronGilder\obj\Debug\netcoreapp2.1\09.IronGilder.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\Exams\09.IronGilder\obj\Debug\netcoreapp2.1\09.IronGilder.dll
+C:\Users\Yanislav\source\repos\Exams\09.IronGilder\obj\Debug\netcoreapp2.1\09.IronGilder.pdb

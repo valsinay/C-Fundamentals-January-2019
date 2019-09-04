@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\8.Snowballs\obj\Debug\netcoreapp2.1\8.Snowballs.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\8.Snowballs\obj\Debug\netcoreapp2.1\8.Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\8.Snowballs\obj\Debug\netcoreapp2.1\8.Snowballs.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\8.Snowballs\obj\Debug\netcoreapp2.1\8.Snowballs.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\8.Snowballs\bin\Debug\netcoreapp2.1\8.Snowballs.deps.json
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\8.Snowballs\bin\Debug\netcoreapp2.1\8.Snowballs.runtimeconfig.json
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\8.Snowballs\bin\Debug\netcoreapp2.1\8.Snowballs.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\8.Snowballs\bin\Debug\netcoreapp2.1\8.Snowballs.dll
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\8.Snowballs\bin\Debug\netcoreapp2.1\8.Snowballs.pdb
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\8.Snowballs\obj\Debug\netcoreapp2.1\8.Snowballs.dll
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\8.Snowballs\obj\Debug\netcoreapp2.1\8.Snowballs.pdb

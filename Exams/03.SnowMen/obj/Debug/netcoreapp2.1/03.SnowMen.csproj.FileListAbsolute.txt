@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\Exams\03.SnowMen\obj\Debug\netcoreapp2.1\03.SnowMen.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\Exams\03.SnowMen\obj\Debug\netcoreapp2.1\03.SnowMen.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\Exams\03.SnowMen\obj\Debug\netcoreapp2.1\03.SnowMen.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\Exams\03.SnowMen\obj\Debug\netcoreapp2.1\03.SnowMen.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\Exams\03.SnowMen\bin\Debug\netcoreapp2.1\03.SnowMen.deps.json
+C:\Users\Yanislav\source\repos\Exams\03.SnowMen\bin\Debug\netcoreapp2.1\03.SnowMen.runtimeconfig.json
+C:\Users\Yanislav\source\repos\Exams\03.SnowMen\bin\Debug\netcoreapp2.1\03.SnowMen.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\Exams\03.SnowMen\bin\Debug\netcoreapp2.1\03.SnowMen.dll
+C:\Users\Yanislav\source\repos\Exams\03.SnowMen\bin\Debug\netcoreapp2.1\03.SnowMen.pdb
+C:\Users\Yanislav\source\repos\Exams\03.SnowMen\obj\Debug\netcoreapp2.1\03.SnowMen.dll
+C:\Users\Yanislav\source\repos\Exams\03.SnowMen\obj\Debug\netcoreapp2.1\03.SnowMen.pdb

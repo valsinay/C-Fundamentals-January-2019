@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\11.PokemonTrainer\bin\Debug\netcoreapp2.1\11.PokemonTrainer.deps.json
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\11.PokemonTrainer\bin\Debug\netcoreapp2.1\11.PokemonTrainer.runtimeconfig.json
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\11.PokemonTrainer\bin\Debug\netcoreapp2.1\11.PokemonTrainer.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\11.PokemonTrainer\bin\Debug\netcoreapp2.1\11.PokemonTrainer.dll
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\11.PokemonTrainer\bin\Debug\netcoreapp2.1\11.PokemonTrainer.pdb
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\11.PokemonTrainer\obj\Debug\netcoreapp2.1\11.PokemonTrainer.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\11.PokemonTrainer\obj\Debug\netcoreapp2.1\11.PokemonTrainer.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\11.PokemonTrainer\obj\Debug\netcoreapp2.1\11.PokemonTrainer.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\11.PokemonTrainer\obj\Debug\netcoreapp2.1\11.PokemonTrainer.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\11.PokemonTrainer\obj\Debug\netcoreapp2.1\11.PokemonTrainer.dll
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\11.PokemonTrainer\obj\Debug\netcoreapp2.1\11.PokemonTrainer.pdb

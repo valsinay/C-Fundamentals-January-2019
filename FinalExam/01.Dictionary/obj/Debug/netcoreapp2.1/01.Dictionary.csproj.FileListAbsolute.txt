@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\FinalExam\01.Dictionary\bin\Debug\netcoreapp2.1\01.Dictionary.deps.json
+C:\Users\Yanislav\source\repos\FinalExam\01.Dictionary\bin\Debug\netcoreapp2.1\01.Dictionary.runtimeconfig.json
+C:\Users\Yanislav\source\repos\FinalExam\01.Dictionary\bin\Debug\netcoreapp2.1\01.Dictionary.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\FinalExam\01.Dictionary\bin\Debug\netcoreapp2.1\01.Dictionary.dll
+C:\Users\Yanislav\source\repos\FinalExam\01.Dictionary\bin\Debug\netcoreapp2.1\01.Dictionary.pdb
+C:\Users\Yanislav\source\repos\FinalExam\01.Dictionary\obj\Debug\netcoreapp2.1\01.Dictionary.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\FinalExam\01.Dictionary\obj\Debug\netcoreapp2.1\01.Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\FinalExam\01.Dictionary\obj\Debug\netcoreapp2.1\01.Dictionary.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\FinalExam\01.Dictionary\obj\Debug\netcoreapp2.1\01.Dictionary.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\FinalExam\01.Dictionary\obj\Debug\netcoreapp2.1\01.Dictionary.dll
+C:\Users\Yanislav\source\repos\FinalExam\01.Dictionary\obj\Debug\netcoreapp2.1\01.Dictionary.pdb

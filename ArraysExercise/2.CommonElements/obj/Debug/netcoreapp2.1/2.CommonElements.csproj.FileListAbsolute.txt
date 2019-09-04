@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\ArraysExercise\2.CommonElements\bin\Debug\netcoreapp2.1\2.CommonElements.deps.json
+C:\Users\Yanislav\source\repos\ArraysExercise\2.CommonElements\bin\Debug\netcoreapp2.1\2.CommonElements.runtimeconfig.json
+C:\Users\Yanislav\source\repos\ArraysExercise\2.CommonElements\bin\Debug\netcoreapp2.1\2.CommonElements.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\ArraysExercise\2.CommonElements\bin\Debug\netcoreapp2.1\2.CommonElements.dll
+C:\Users\Yanislav\source\repos\ArraysExercise\2.CommonElements\bin\Debug\netcoreapp2.1\2.CommonElements.pdb
+C:\Users\Yanislav\source\repos\ArraysExercise\2.CommonElements\obj\Debug\netcoreapp2.1\2.CommonElements.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\ArraysExercise\2.CommonElements\obj\Debug\netcoreapp2.1\2.CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\ArraysExercise\2.CommonElements\obj\Debug\netcoreapp2.1\2.CommonElements.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\ArraysExercise\2.CommonElements\obj\Debug\netcoreapp2.1\2.CommonElements.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\ArraysExercise\2.CommonElements\obj\Debug\netcoreapp2.1\2.CommonElements.dll
+C:\Users\Yanislav\source\repos\ArraysExercise\2.CommonElements\obj\Debug\netcoreapp2.1\2.CommonElements.pdb

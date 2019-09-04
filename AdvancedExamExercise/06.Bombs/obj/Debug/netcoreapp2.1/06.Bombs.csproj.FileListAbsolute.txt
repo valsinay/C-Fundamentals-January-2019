@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\06.Bombs\bin\Debug\netcoreapp2.1\06.Bombs.deps.json
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\06.Bombs\bin\Debug\netcoreapp2.1\06.Bombs.runtimeconfig.json
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\06.Bombs\bin\Debug\netcoreapp2.1\06.Bombs.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\06.Bombs\bin\Debug\netcoreapp2.1\06.Bombs.dll
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\06.Bombs\bin\Debug\netcoreapp2.1\06.Bombs.pdb
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\06.Bombs\obj\Debug\netcoreapp2.1\06.Bombs.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\06.Bombs\obj\Debug\netcoreapp2.1\06.Bombs.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\06.Bombs\obj\Debug\netcoreapp2.1\06.Bombs.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\06.Bombs\obj\Debug\netcoreapp2.1\06.Bombs.dll
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\06.Bombs\obj\Debug\netcoreapp2.1\06.Bombs.pdb
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\06.Bombs\obj\Debug\netcoreapp2.1\06.Bombs.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\07.StudentAcademy\bin\Debug\netcoreapp2.1\07.StudentAcademy.deps.json
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\07.StudentAcademy\bin\Debug\netcoreapp2.1\07.StudentAcademy.runtimeconfig.json
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\07.StudentAcademy\bin\Debug\netcoreapp2.1\07.StudentAcademy.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\07.StudentAcademy\bin\Debug\netcoreapp2.1\07.StudentAcademy.dll
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\07.StudentAcademy\bin\Debug\netcoreapp2.1\07.StudentAcademy.pdb
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\07.StudentAcademy\obj\Debug\netcoreapp2.1\07.StudentAcademy.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\07.StudentAcademy\obj\Debug\netcoreapp2.1\07.StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\07.StudentAcademy\obj\Debug\netcoreapp2.1\07.StudentAcademy.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\07.StudentAcademy\obj\Debug\netcoreapp2.1\07.StudentAcademy.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\07.StudentAcademy\obj\Debug\netcoreapp2.1\07.StudentAcademy.dll
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\07.StudentAcademy\obj\Debug\netcoreapp2.1\07.StudentAcademy.pdb

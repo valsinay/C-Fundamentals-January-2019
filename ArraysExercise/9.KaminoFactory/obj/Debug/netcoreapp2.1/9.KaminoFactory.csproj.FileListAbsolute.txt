@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\ArraysExercise\9.KaminoFactory\bin\Debug\netcoreapp2.1\9.KaminoFactory.deps.json
+C:\Users\Yanislav\source\repos\ArraysExercise\9.KaminoFactory\bin\Debug\netcoreapp2.1\9.KaminoFactory.runtimeconfig.json
+C:\Users\Yanislav\source\repos\ArraysExercise\9.KaminoFactory\bin\Debug\netcoreapp2.1\9.KaminoFactory.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\ArraysExercise\9.KaminoFactory\bin\Debug\netcoreapp2.1\9.KaminoFactory.dll
+C:\Users\Yanislav\source\repos\ArraysExercise\9.KaminoFactory\bin\Debug\netcoreapp2.1\9.KaminoFactory.pdb
+C:\Users\Yanislav\source\repos\ArraysExercise\9.KaminoFactory\obj\Debug\netcoreapp2.1\9.KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\ArraysExercise\9.KaminoFactory\obj\Debug\netcoreapp2.1\9.KaminoFactory.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\ArraysExercise\9.KaminoFactory\obj\Debug\netcoreapp2.1\9.KaminoFactory.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\ArraysExercise\9.KaminoFactory\obj\Debug\netcoreapp2.1\9.KaminoFactory.dll
+C:\Users\Yanislav\source\repos\ArraysExercise\9.KaminoFactory\obj\Debug\netcoreapp2.1\9.KaminoFactory.pdb
+C:\Users\Yanislav\source\repos\ArraysExercise\9.KaminoFactory\obj\Debug\netcoreapp2.1\9.KaminoFactory.csprojAssemblyReference.cache

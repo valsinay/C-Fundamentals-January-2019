@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\ExamExercises\01.Numbers\bin\Debug\netcoreapp2.1\01.Numbers.deps.json
+C:\Users\Yanislav\source\repos\ExamExercises\01.Numbers\bin\Debug\netcoreapp2.1\01.Numbers.runtimeconfig.json
+C:\Users\Yanislav\source\repos\ExamExercises\01.Numbers\bin\Debug\netcoreapp2.1\01.Numbers.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\ExamExercises\01.Numbers\bin\Debug\netcoreapp2.1\01.Numbers.dll
+C:\Users\Yanislav\source\repos\ExamExercises\01.Numbers\bin\Debug\netcoreapp2.1\01.Numbers.pdb
+C:\Users\Yanislav\source\repos\ExamExercises\01.Numbers\obj\Debug\netcoreapp2.1\01.Numbers.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\ExamExercises\01.Numbers\obj\Debug\netcoreapp2.1\01.Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\ExamExercises\01.Numbers\obj\Debug\netcoreapp2.1\01.Numbers.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\ExamExercises\01.Numbers\obj\Debug\netcoreapp2.1\01.Numbers.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\ExamExercises\01.Numbers\obj\Debug\netcoreapp2.1\01.Numbers.dll
+C:\Users\Yanislav\source\repos\ExamExercises\01.Numbers\obj\Debug\netcoreapp2.1\01.Numbers.pdb

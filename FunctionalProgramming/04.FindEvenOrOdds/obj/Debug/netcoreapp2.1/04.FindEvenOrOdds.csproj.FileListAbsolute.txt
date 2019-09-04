@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\FunctionalProgramming\04.FindEvenOrOdds\bin\Debug\netcoreapp2.1\04.FindEvenOrOdds.deps.json
+C:\Users\Yanislav\source\repos\FunctionalProgramming\04.FindEvenOrOdds\bin\Debug\netcoreapp2.1\04.FindEvenOrOdds.runtimeconfig.json
+C:\Users\Yanislav\source\repos\FunctionalProgramming\04.FindEvenOrOdds\bin\Debug\netcoreapp2.1\04.FindEvenOrOdds.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\FunctionalProgramming\04.FindEvenOrOdds\bin\Debug\netcoreapp2.1\04.FindEvenOrOdds.dll
+C:\Users\Yanislav\source\repos\FunctionalProgramming\04.FindEvenOrOdds\bin\Debug\netcoreapp2.1\04.FindEvenOrOdds.pdb
+C:\Users\Yanislav\source\repos\FunctionalProgramming\04.FindEvenOrOdds\obj\Debug\netcoreapp2.1\04.FindEvenOrOdds.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\FunctionalProgramming\04.FindEvenOrOdds\obj\Debug\netcoreapp2.1\04.FindEvenOrOdds.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\FunctionalProgramming\04.FindEvenOrOdds\obj\Debug\netcoreapp2.1\04.FindEvenOrOdds.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\FunctionalProgramming\04.FindEvenOrOdds\obj\Debug\netcoreapp2.1\04.FindEvenOrOdds.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\FunctionalProgramming\04.FindEvenOrOdds\obj\Debug\netcoreapp2.1\04.FindEvenOrOdds.dll
+C:\Users\Yanislav\source\repos\FunctionalProgramming\04.FindEvenOrOdds\obj\Debug\netcoreapp2.1\04.FindEvenOrOdds.pdb

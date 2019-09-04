@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\Exams\11.MobaChallenger\bin\Debug\netcoreapp2.1\11.MobaChallenger.deps.json
+C:\Users\Yanislav\source\repos\Exams\11.MobaChallenger\bin\Debug\netcoreapp2.1\11.MobaChallenger.runtimeconfig.json
+C:\Users\Yanislav\source\repos\Exams\11.MobaChallenger\bin\Debug\netcoreapp2.1\11.MobaChallenger.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\Exams\11.MobaChallenger\bin\Debug\netcoreapp2.1\11.MobaChallenger.dll
+C:\Users\Yanislav\source\repos\Exams\11.MobaChallenger\bin\Debug\netcoreapp2.1\11.MobaChallenger.pdb
+C:\Users\Yanislav\source\repos\Exams\11.MobaChallenger\obj\Debug\netcoreapp2.1\11.MobaChallenger.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\Exams\11.MobaChallenger\obj\Debug\netcoreapp2.1\11.MobaChallenger.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\Exams\11.MobaChallenger\obj\Debug\netcoreapp2.1\11.MobaChallenger.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\Exams\11.MobaChallenger\obj\Debug\netcoreapp2.1\11.MobaChallenger.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\Exams\11.MobaChallenger\obj\Debug\netcoreapp2.1\11.MobaChallenger.dll
+C:\Users\Yanislav\source\repos\Exams\11.MobaChallenger\obj\Debug\netcoreapp2.1\11.MobaChallenger.pdb

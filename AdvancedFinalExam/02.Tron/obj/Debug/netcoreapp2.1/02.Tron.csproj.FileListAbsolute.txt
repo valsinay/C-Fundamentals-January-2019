@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\AdvancedFinalExam\02.Tron\bin\Debug\netcoreapp2.1\02.Tron.deps.json
+C:\Users\Yanislav\source\repos\AdvancedFinalExam\02.Tron\bin\Debug\netcoreapp2.1\02.Tron.runtimeconfig.json
+C:\Users\Yanislav\source\repos\AdvancedFinalExam\02.Tron\bin\Debug\netcoreapp2.1\02.Tron.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\AdvancedFinalExam\02.Tron\bin\Debug\netcoreapp2.1\02.Tron.dll
+C:\Users\Yanislav\source\repos\AdvancedFinalExam\02.Tron\bin\Debug\netcoreapp2.1\02.Tron.pdb
+C:\Users\Yanislav\source\repos\AdvancedFinalExam\02.Tron\obj\Debug\netcoreapp2.1\02.Tron.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\AdvancedFinalExam\02.Tron\obj\Debug\netcoreapp2.1\02.Tron.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\AdvancedFinalExam\02.Tron\obj\Debug\netcoreapp2.1\02.Tron.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\AdvancedFinalExam\02.Tron\obj\Debug\netcoreapp2.1\02.Tron.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\AdvancedFinalExam\02.Tron\obj\Debug\netcoreapp2.1\02.Tron.dll
+C:\Users\Yanislav\source\repos\AdvancedFinalExam\02.Tron\obj\Debug\netcoreapp2.1\02.Tron.pdb

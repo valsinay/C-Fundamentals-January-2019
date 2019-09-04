@@ -1,0 +1,10 @@
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\6.ReversedChar\bin\Debug\netcoreapp2.1\6.ReversedChar.deps.json
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\6.ReversedChar\bin\Debug\netcoreapp2.1\6.ReversedChar.runtimeconfig.json
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\6.ReversedChar\bin\Debug\netcoreapp2.1\6.ReversedChar.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\6.ReversedChar\bin\Debug\netcoreapp2.1\6.ReversedChar.dll
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\6.ReversedChar\bin\Debug\netcoreapp2.1\6.ReversedChar.pdb
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\6.ReversedChar\obj\Debug\netcoreapp2.1\6.ReversedChar.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\6.ReversedChar\obj\Debug\netcoreapp2.1\6.ReversedChar.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\6.ReversedChar\obj\Debug\netcoreapp2.1\6.ReversedChar.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\6.ReversedChar\obj\Debug\netcoreapp2.1\6.ReversedChar.dll
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\6.ReversedChar\obj\Debug\netcoreapp2.1\6.ReversedChar.pdb

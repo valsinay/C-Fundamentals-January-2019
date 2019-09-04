@@ -1,0 +1,10 @@
+C:\Users\Yanislav\source\repos\ArraysMoreExercise\2.PascalTriangle\obj\Debug\netcoreapp2.1\2.PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\ArraysMoreExercise\2.PascalTriangle\obj\Debug\netcoreapp2.1\2.PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\ArraysMoreExercise\2.PascalTriangle\obj\Debug\netcoreapp2.1\2.PascalTriangle.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\ArraysMoreExercise\2.PascalTriangle\bin\Debug\netcoreapp2.1\2.PascalTriangle.deps.json
+C:\Users\Yanislav\source\repos\ArraysMoreExercise\2.PascalTriangle\bin\Debug\netcoreapp2.1\2.PascalTriangle.runtimeconfig.json
+C:\Users\Yanislav\source\repos\ArraysMoreExercise\2.PascalTriangle\bin\Debug\netcoreapp2.1\2.PascalTriangle.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\ArraysMoreExercise\2.PascalTriangle\bin\Debug\netcoreapp2.1\2.PascalTriangle.dll
+C:\Users\Yanislav\source\repos\ArraysMoreExercise\2.PascalTriangle\bin\Debug\netcoreapp2.1\2.PascalTriangle.pdb
+C:\Users\Yanislav\source\repos\ArraysMoreExercise\2.PascalTriangle\obj\Debug\netcoreapp2.1\2.PascalTriangle.dll
+C:\Users\Yanislav\source\repos\ArraysMoreExercise\2.PascalTriangle\obj\Debug\netcoreapp2.1\2.PascalTriangle.pdb

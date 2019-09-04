@@ -1,0 +1,10 @@
+C:\Users\Yanislav\source\repos\FunctionalProgramming\08.CustomComparator\bin\Debug\netcoreapp2.1\08.CustomComparator.deps.json
+C:\Users\Yanislav\source\repos\FunctionalProgramming\08.CustomComparator\bin\Debug\netcoreapp2.1\08.CustomComparator.runtimeconfig.json
+C:\Users\Yanislav\source\repos\FunctionalProgramming\08.CustomComparator\bin\Debug\netcoreapp2.1\08.CustomComparator.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\FunctionalProgramming\08.CustomComparator\bin\Debug\netcoreapp2.1\08.CustomComparator.dll
+C:\Users\Yanislav\source\repos\FunctionalProgramming\08.CustomComparator\bin\Debug\netcoreapp2.1\08.CustomComparator.pdb
+C:\Users\Yanislav\source\repos\FunctionalProgramming\08.CustomComparator\obj\Debug\netcoreapp2.1\08.CustomComparator.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\FunctionalProgramming\08.CustomComparator\obj\Debug\netcoreapp2.1\08.CustomComparator.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\FunctionalProgramming\08.CustomComparator\obj\Debug\netcoreapp2.1\08.CustomComparator.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\FunctionalProgramming\08.CustomComparator\obj\Debug\netcoreapp2.1\08.CustomComparator.dll
+C:\Users\Yanislav\source\repos\FunctionalProgramming\08.CustomComparator\obj\Debug\netcoreapp2.1\08.CustomComparator.pdb

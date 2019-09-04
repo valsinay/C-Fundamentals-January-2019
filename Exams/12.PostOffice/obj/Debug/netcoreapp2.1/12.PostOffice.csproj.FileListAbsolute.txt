@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\Exams\12.PostOffice\bin\Debug\netcoreapp2.1\12.PostOffice.deps.json
+C:\Users\Yanislav\source\repos\Exams\12.PostOffice\bin\Debug\netcoreapp2.1\12.PostOffice.runtimeconfig.json
+C:\Users\Yanislav\source\repos\Exams\12.PostOffice\bin\Debug\netcoreapp2.1\12.PostOffice.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\Exams\12.PostOffice\bin\Debug\netcoreapp2.1\12.PostOffice.dll
+C:\Users\Yanislav\source\repos\Exams\12.PostOffice\bin\Debug\netcoreapp2.1\12.PostOffice.pdb
+C:\Users\Yanislav\source\repos\Exams\12.PostOffice\obj\Debug\netcoreapp2.1\12.PostOffice.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\Exams\12.PostOffice\obj\Debug\netcoreapp2.1\12.PostOffice.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\Exams\12.PostOffice\obj\Debug\netcoreapp2.1\12.PostOffice.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\Exams\12.PostOffice\obj\Debug\netcoreapp2.1\12.PostOffice.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\Exams\12.PostOffice\obj\Debug\netcoreapp2.1\12.PostOffice.dll
+C:\Users\Yanislav\source\repos\Exams\12.PostOffice\obj\Debug\netcoreapp2.1\12.PostOffice.pdb

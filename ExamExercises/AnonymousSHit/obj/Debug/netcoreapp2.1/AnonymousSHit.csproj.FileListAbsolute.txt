@@ -1,0 +1,10 @@
+C:\Users\Yanislav\source\repos\ExamExercises\AnonymousSHit\bin\Debug\netcoreapp2.1\AnonymousSHit.deps.json
+C:\Users\Yanislav\source\repos\ExamExercises\AnonymousSHit\bin\Debug\netcoreapp2.1\AnonymousSHit.runtimeconfig.json
+C:\Users\Yanislav\source\repos\ExamExercises\AnonymousSHit\bin\Debug\netcoreapp2.1\AnonymousSHit.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\ExamExercises\AnonymousSHit\bin\Debug\netcoreapp2.1\AnonymousSHit.dll
+C:\Users\Yanislav\source\repos\ExamExercises\AnonymousSHit\bin\Debug\netcoreapp2.1\AnonymousSHit.pdb
+C:\Users\Yanislav\source\repos\ExamExercises\AnonymousSHit\obj\Debug\netcoreapp2.1\AnonymousSHit.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\ExamExercises\AnonymousSHit\obj\Debug\netcoreapp2.1\AnonymousSHit.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\ExamExercises\AnonymousSHit\obj\Debug\netcoreapp2.1\AnonymousSHit.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\ExamExercises\AnonymousSHit\obj\Debug\netcoreapp2.1\AnonymousSHit.dll
+C:\Users\Yanislav\source\repos\ExamExercises\AnonymousSHit\obj\Debug\netcoreapp2.1\AnonymousSHit.pdb

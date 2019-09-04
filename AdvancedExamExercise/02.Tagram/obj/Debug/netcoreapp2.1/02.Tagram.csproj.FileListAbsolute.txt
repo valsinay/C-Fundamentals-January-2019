@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\02.Tagram\bin\Debug\netcoreapp2.1\02.Tagram.deps.json
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\02.Tagram\bin\Debug\netcoreapp2.1\02.Tagram.runtimeconfig.json
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\02.Tagram\bin\Debug\netcoreapp2.1\02.Tagram.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\02.Tagram\bin\Debug\netcoreapp2.1\02.Tagram.dll
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\02.Tagram\bin\Debug\netcoreapp2.1\02.Tagram.pdb
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\02.Tagram\obj\Debug\netcoreapp2.1\02.Tagram.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\02.Tagram\obj\Debug\netcoreapp2.1\02.Tagram.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\02.Tagram\obj\Debug\netcoreapp2.1\02.Tagram.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\02.Tagram\obj\Debug\netcoreapp2.1\02.Tagram.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\02.Tagram\obj\Debug\netcoreapp2.1\02.Tagram.dll
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\02.Tagram\obj\Debug\netcoreapp2.1\02.Tagram.pdb

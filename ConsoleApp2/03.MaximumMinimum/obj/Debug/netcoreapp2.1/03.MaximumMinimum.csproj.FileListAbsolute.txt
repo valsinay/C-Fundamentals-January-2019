@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\ConsoleApp2\03.MaximumMinimum\bin\Debug\netcoreapp2.1\03.MaximumMinimum.deps.json
+C:\Users\Yanislav\source\repos\ConsoleApp2\03.MaximumMinimum\bin\Debug\netcoreapp2.1\03.MaximumMinimum.runtimeconfig.json
+C:\Users\Yanislav\source\repos\ConsoleApp2\03.MaximumMinimum\bin\Debug\netcoreapp2.1\03.MaximumMinimum.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\ConsoleApp2\03.MaximumMinimum\bin\Debug\netcoreapp2.1\03.MaximumMinimum.dll
+C:\Users\Yanislav\source\repos\ConsoleApp2\03.MaximumMinimum\bin\Debug\netcoreapp2.1\03.MaximumMinimum.pdb
+C:\Users\Yanislav\source\repos\ConsoleApp2\03.MaximumMinimum\obj\Debug\netcoreapp2.1\03.MaximumMinimum.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\ConsoleApp2\03.MaximumMinimum\obj\Debug\netcoreapp2.1\03.MaximumMinimum.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\ConsoleApp2\03.MaximumMinimum\obj\Debug\netcoreapp2.1\03.MaximumMinimum.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\ConsoleApp2\03.MaximumMinimum\obj\Debug\netcoreapp2.1\03.MaximumMinimum.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\ConsoleApp2\03.MaximumMinimum\obj\Debug\netcoreapp2.1\03.MaximumMinimum.dll
+C:\Users\Yanislav\source\repos\ConsoleApp2\03.MaximumMinimum\obj\Debug\netcoreapp2.1\03.MaximumMinimum.pdb

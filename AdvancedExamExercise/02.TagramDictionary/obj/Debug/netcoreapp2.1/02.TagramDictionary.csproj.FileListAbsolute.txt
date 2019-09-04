@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\02.TagramDictionary\bin\Debug\netcoreapp2.1\02.TagramDictionary.deps.json
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\02.TagramDictionary\bin\Debug\netcoreapp2.1\02.TagramDictionary.runtimeconfig.json
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\02.TagramDictionary\bin\Debug\netcoreapp2.1\02.TagramDictionary.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\02.TagramDictionary\bin\Debug\netcoreapp2.1\02.TagramDictionary.dll
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\02.TagramDictionary\bin\Debug\netcoreapp2.1\02.TagramDictionary.pdb
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\02.TagramDictionary\obj\Debug\netcoreapp2.1\02.TagramDictionary.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\02.TagramDictionary\obj\Debug\netcoreapp2.1\02.TagramDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\02.TagramDictionary\obj\Debug\netcoreapp2.1\02.TagramDictionary.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\02.TagramDictionary\obj\Debug\netcoreapp2.1\02.TagramDictionary.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\02.TagramDictionary\obj\Debug\netcoreapp2.1\02.TagramDictionary.dll
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\02.TagramDictionary\obj\Debug\netcoreapp2.1\02.TagramDictionary.pdb

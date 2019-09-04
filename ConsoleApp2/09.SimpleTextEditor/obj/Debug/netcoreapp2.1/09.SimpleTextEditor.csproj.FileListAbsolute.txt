@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\ConsoleApp2\09.SimpleTextEditor\bin\Debug\netcoreapp2.1\09.SimpleTextEditor.deps.json
+C:\Users\Yanislav\source\repos\ConsoleApp2\09.SimpleTextEditor\bin\Debug\netcoreapp2.1\09.SimpleTextEditor.runtimeconfig.json
+C:\Users\Yanislav\source\repos\ConsoleApp2\09.SimpleTextEditor\bin\Debug\netcoreapp2.1\09.SimpleTextEditor.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\ConsoleApp2\09.SimpleTextEditor\bin\Debug\netcoreapp2.1\09.SimpleTextEditor.dll
+C:\Users\Yanislav\source\repos\ConsoleApp2\09.SimpleTextEditor\bin\Debug\netcoreapp2.1\09.SimpleTextEditor.pdb
+C:\Users\Yanislav\source\repos\ConsoleApp2\09.SimpleTextEditor\obj\Debug\netcoreapp2.1\09.SimpleTextEditor.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\ConsoleApp2\09.SimpleTextEditor\obj\Debug\netcoreapp2.1\09.SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\ConsoleApp2\09.SimpleTextEditor\obj\Debug\netcoreapp2.1\09.SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\ConsoleApp2\09.SimpleTextEditor\obj\Debug\netcoreapp2.1\09.SimpleTextEditor.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\ConsoleApp2\09.SimpleTextEditor\obj\Debug\netcoreapp2.1\09.SimpleTextEditor.dll
+C:\Users\Yanislav\source\repos\ConsoleApp2\09.SimpleTextEditor\obj\Debug\netcoreapp2.1\09.SimpleTextEditor.pdb

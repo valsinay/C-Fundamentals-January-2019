@@ -1,0 +1,10 @@
+C:\Users\Yanislav\source\repos\Exams\10.TseamAccount\bin\Debug\netcoreapp2.1\10.TseamAccount.deps.json
+C:\Users\Yanislav\source\repos\Exams\10.TseamAccount\bin\Debug\netcoreapp2.1\10.TseamAccount.runtimeconfig.json
+C:\Users\Yanislav\source\repos\Exams\10.TseamAccount\bin\Debug\netcoreapp2.1\10.TseamAccount.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\Exams\10.TseamAccount\bin\Debug\netcoreapp2.1\10.TseamAccount.dll
+C:\Users\Yanislav\source\repos\Exams\10.TseamAccount\bin\Debug\netcoreapp2.1\10.TseamAccount.pdb
+C:\Users\Yanislav\source\repos\Exams\10.TseamAccount\obj\Debug\netcoreapp2.1\10.TseamAccount.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\Exams\10.TseamAccount\obj\Debug\netcoreapp2.1\10.TseamAccount.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\Exams\10.TseamAccount\obj\Debug\netcoreapp2.1\10.TseamAccount.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\Exams\10.TseamAccount\obj\Debug\netcoreapp2.1\10.TseamAccount.dll
+C:\Users\Yanislav\source\repos\Exams\10.TseamAccount\obj\Debug\netcoreapp2.1\10.TseamAccount.pdb

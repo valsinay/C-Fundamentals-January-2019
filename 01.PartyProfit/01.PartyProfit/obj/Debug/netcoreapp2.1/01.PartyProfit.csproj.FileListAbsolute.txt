@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\01.PartyProfit\01.PartyProfit\bin\Debug\netcoreapp2.1\01.PartyProfit.deps.json
+C:\Users\Yanislav\source\repos\01.PartyProfit\01.PartyProfit\bin\Debug\netcoreapp2.1\01.PartyProfit.runtimeconfig.json
+C:\Users\Yanislav\source\repos\01.PartyProfit\01.PartyProfit\bin\Debug\netcoreapp2.1\01.PartyProfit.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\01.PartyProfit\01.PartyProfit\bin\Debug\netcoreapp2.1\01.PartyProfit.dll
+C:\Users\Yanislav\source\repos\01.PartyProfit\01.PartyProfit\bin\Debug\netcoreapp2.1\01.PartyProfit.pdb
+C:\Users\Yanislav\source\repos\01.PartyProfit\01.PartyProfit\obj\Debug\netcoreapp2.1\01.PartyProfit.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\01.PartyProfit\01.PartyProfit\obj\Debug\netcoreapp2.1\01.PartyProfit.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\01.PartyProfit\01.PartyProfit\obj\Debug\netcoreapp2.1\01.PartyProfit.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\01.PartyProfit\01.PartyProfit\obj\Debug\netcoreapp2.1\01.PartyProfit.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\01.PartyProfit\01.PartyProfit\obj\Debug\netcoreapp2.1\01.PartyProfit.dll
+C:\Users\Yanislav\source\repos\01.PartyProfit\01.PartyProfit\obj\Debug\netcoreapp2.1\01.PartyProfit.pdb

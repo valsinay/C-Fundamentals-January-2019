@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\ConsoleApp5\HelensAbduction\bin\Debug\netcoreapp2.1\HelensAbduction.deps.json
+C:\Users\Yanislav\source\repos\ConsoleApp5\HelensAbduction\bin\Debug\netcoreapp2.1\HelensAbduction.runtimeconfig.json
+C:\Users\Yanislav\source\repos\ConsoleApp5\HelensAbduction\bin\Debug\netcoreapp2.1\HelensAbduction.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\ConsoleApp5\HelensAbduction\bin\Debug\netcoreapp2.1\HelensAbduction.dll
+C:\Users\Yanislav\source\repos\ConsoleApp5\HelensAbduction\bin\Debug\netcoreapp2.1\HelensAbduction.pdb
+C:\Users\Yanislav\source\repos\ConsoleApp5\HelensAbduction\obj\Debug\netcoreapp2.1\HelensAbduction.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\ConsoleApp5\HelensAbduction\obj\Debug\netcoreapp2.1\HelensAbduction.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\ConsoleApp5\HelensAbduction\obj\Debug\netcoreapp2.1\HelensAbduction.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\ConsoleApp5\HelensAbduction\obj\Debug\netcoreapp2.1\HelensAbduction.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\ConsoleApp5\HelensAbduction\obj\Debug\netcoreapp2.1\HelensAbduction.dll
+C:\Users\Yanislav\source\repos\ConsoleApp5\HelensAbduction\obj\Debug\netcoreapp2.1\HelensAbduction.pdb

@@ -1,0 +1,10 @@
+C:\Users\Yanislav\source\repos\ConsoleApp2\01.PlayAround\bin\Debug\netcoreapp2.1\01.PlayAround.deps.json
+C:\Users\Yanislav\source\repos\ConsoleApp2\01.PlayAround\bin\Debug\netcoreapp2.1\01.PlayAround.runtimeconfig.json
+C:\Users\Yanislav\source\repos\ConsoleApp2\01.PlayAround\bin\Debug\netcoreapp2.1\01.PlayAround.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\ConsoleApp2\01.PlayAround\bin\Debug\netcoreapp2.1\01.PlayAround.dll
+C:\Users\Yanislav\source\repos\ConsoleApp2\01.PlayAround\bin\Debug\netcoreapp2.1\01.PlayAround.pdb
+C:\Users\Yanislav\source\repos\ConsoleApp2\01.PlayAround\obj\Debug\netcoreapp2.1\01.PlayAround.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\ConsoleApp2\01.PlayAround\obj\Debug\netcoreapp2.1\01.PlayAround.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\ConsoleApp2\01.PlayAround\obj\Debug\netcoreapp2.1\01.PlayAround.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\ConsoleApp2\01.PlayAround\obj\Debug\netcoreapp2.1\01.PlayAround.dll
+C:\Users\Yanislav\source\repos\ConsoleApp2\01.PlayAround\obj\Debug\netcoreapp2.1\01.PlayAround.pdb

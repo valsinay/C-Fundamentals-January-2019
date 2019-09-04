@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\ExamExercises\01.LargestCommonEnd\bin\Debug\netcoreapp2.1\01.AnonymousThreat.deps.json
+C:\Users\Yanislav\source\repos\ExamExercises\01.LargestCommonEnd\bin\Debug\netcoreapp2.1\01.AnonymousThreat.runtimeconfig.json
+C:\Users\Yanislav\source\repos\ExamExercises\01.LargestCommonEnd\bin\Debug\netcoreapp2.1\01.AnonymousThreat.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\ExamExercises\01.LargestCommonEnd\bin\Debug\netcoreapp2.1\01.AnonymousThreat.dll
+C:\Users\Yanislav\source\repos\ExamExercises\01.LargestCommonEnd\bin\Debug\netcoreapp2.1\01.AnonymousThreat.pdb
+C:\Users\Yanislav\source\repos\ExamExercises\01.LargestCommonEnd\obj\Debug\netcoreapp2.1\01.AnonymousThreat.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\ExamExercises\01.LargestCommonEnd\obj\Debug\netcoreapp2.1\01.AnonymousThreat.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\ExamExercises\01.LargestCommonEnd\obj\Debug\netcoreapp2.1\01.AnonymousThreat.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\ExamExercises\01.LargestCommonEnd\obj\Debug\netcoreapp2.1\01.AnonymousThreat.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\ExamExercises\01.LargestCommonEnd\obj\Debug\netcoreapp2.1\01.AnonymousThreat.dll
+C:\Users\Yanislav\source\repos\ExamExercises\01.LargestCommonEnd\obj\Debug\netcoreapp2.1\01.AnonymousThreat.pdb

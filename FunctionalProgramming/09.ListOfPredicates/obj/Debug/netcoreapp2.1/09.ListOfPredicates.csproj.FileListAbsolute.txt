@@ -1,0 +1,10 @@
+C:\Users\Yanislav\source\repos\FunctionalProgramming\09.ListOfPredicates\bin\Debug\netcoreapp2.1\09.ListOfPredicates.deps.json
+C:\Users\Yanislav\source\repos\FunctionalProgramming\09.ListOfPredicates\bin\Debug\netcoreapp2.1\09.ListOfPredicates.runtimeconfig.json
+C:\Users\Yanislav\source\repos\FunctionalProgramming\09.ListOfPredicates\bin\Debug\netcoreapp2.1\09.ListOfPredicates.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\FunctionalProgramming\09.ListOfPredicates\bin\Debug\netcoreapp2.1\09.ListOfPredicates.dll
+C:\Users\Yanislav\source\repos\FunctionalProgramming\09.ListOfPredicates\bin\Debug\netcoreapp2.1\09.ListOfPredicates.pdb
+C:\Users\Yanislav\source\repos\FunctionalProgramming\09.ListOfPredicates\obj\Debug\netcoreapp2.1\09.ListOfPredicates.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\FunctionalProgramming\09.ListOfPredicates\obj\Debug\netcoreapp2.1\09.ListOfPredicates.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\FunctionalProgramming\09.ListOfPredicates\obj\Debug\netcoreapp2.1\09.ListOfPredicates.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\FunctionalProgramming\09.ListOfPredicates\obj\Debug\netcoreapp2.1\09.ListOfPredicates.dll
+C:\Users\Yanislav\source\repos\FunctionalProgramming\09.ListOfPredicates\obj\Debug\netcoreapp2.1\09.ListOfPredicates.pdb

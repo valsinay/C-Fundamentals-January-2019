@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\01.PartyProfit\02.DungeonestDark\bin\Debug\netcoreapp2.1\02.DungeonestDark.deps.json
+C:\Users\Yanislav\source\repos\01.PartyProfit\02.DungeonestDark\bin\Debug\netcoreapp2.1\02.DungeonestDark.runtimeconfig.json
+C:\Users\Yanislav\source\repos\01.PartyProfit\02.DungeonestDark\bin\Debug\netcoreapp2.1\02.DungeonestDark.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\01.PartyProfit\02.DungeonestDark\bin\Debug\netcoreapp2.1\02.DungeonestDark.dll
+C:\Users\Yanislav\source\repos\01.PartyProfit\02.DungeonestDark\bin\Debug\netcoreapp2.1\02.DungeonestDark.pdb
+C:\Users\Yanislav\source\repos\01.PartyProfit\02.DungeonestDark\obj\Debug\netcoreapp2.1\02.DungeonestDark.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\01.PartyProfit\02.DungeonestDark\obj\Debug\netcoreapp2.1\02.DungeonestDark.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\01.PartyProfit\02.DungeonestDark\obj\Debug\netcoreapp2.1\02.DungeonestDark.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\01.PartyProfit\02.DungeonestDark\obj\Debug\netcoreapp2.1\02.DungeonestDark.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\01.PartyProfit\02.DungeonestDark\obj\Debug\netcoreapp2.1\02.DungeonestDark.dll
+C:\Users\Yanislav\source\repos\01.PartyProfit\02.DungeonestDark\obj\Debug\netcoreapp2.1\02.DungeonestDark.pdb

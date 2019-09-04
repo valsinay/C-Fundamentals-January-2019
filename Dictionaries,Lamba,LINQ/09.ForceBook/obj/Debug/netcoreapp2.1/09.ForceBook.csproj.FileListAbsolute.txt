@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\09.ForceBook\bin\Debug\netcoreapp2.1\09.ForceBook.deps.json
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\09.ForceBook\bin\Debug\netcoreapp2.1\09.ForceBook.runtimeconfig.json
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\09.ForceBook\bin\Debug\netcoreapp2.1\09.ForceBook.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\09.ForceBook\bin\Debug\netcoreapp2.1\09.ForceBook.dll
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\09.ForceBook\bin\Debug\netcoreapp2.1\09.ForceBook.pdb
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\09.ForceBook\obj\Debug\netcoreapp2.1\09.ForceBook.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\09.ForceBook\obj\Debug\netcoreapp2.1\09.ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\09.ForceBook\obj\Debug\netcoreapp2.1\09.ForceBook.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\09.ForceBook\obj\Debug\netcoreapp2.1\09.ForceBook.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\09.ForceBook\obj\Debug\netcoreapp2.1\09.ForceBook.dll
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\09.ForceBook\obj\Debug\netcoreapp2.1\09.ForceBook.pdb

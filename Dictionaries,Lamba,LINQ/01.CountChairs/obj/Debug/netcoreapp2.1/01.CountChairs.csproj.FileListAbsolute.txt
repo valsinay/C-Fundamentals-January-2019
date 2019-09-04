@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\01.CountChairs\bin\Debug\netcoreapp2.1\01.CountChairs.deps.json
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\01.CountChairs\bin\Debug\netcoreapp2.1\01.CountChairs.runtimeconfig.json
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\01.CountChairs\bin\Debug\netcoreapp2.1\01.CountChairs.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\01.CountChairs\bin\Debug\netcoreapp2.1\01.CountChairs.dll
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\01.CountChairs\bin\Debug\netcoreapp2.1\01.CountChairs.pdb
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\01.CountChairs\obj\Debug\netcoreapp2.1\01.CountChairs.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\01.CountChairs\obj\Debug\netcoreapp2.1\01.CountChairs.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\01.CountChairs\obj\Debug\netcoreapp2.1\01.CountChairs.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\01.CountChairs\obj\Debug\netcoreapp2.1\01.CountChairs.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\01.CountChairs\obj\Debug\netcoreapp2.1\01.CountChairs.dll
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\01.CountChairs\obj\Debug\netcoreapp2.1\01.CountChairs.pdb

@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\06.Courses\bin\Debug\netcoreapp2.1\06.Courses.deps.json
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\06.Courses\bin\Debug\netcoreapp2.1\06.Courses.runtimeconfig.json
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\06.Courses\bin\Debug\netcoreapp2.1\06.Courses.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\06.Courses\bin\Debug\netcoreapp2.1\06.Courses.dll
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\06.Courses\bin\Debug\netcoreapp2.1\06.Courses.pdb
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\06.Courses\obj\Debug\netcoreapp2.1\06.Courses.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\06.Courses\obj\Debug\netcoreapp2.1\06.Courses.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\06.Courses\obj\Debug\netcoreapp2.1\06.Courses.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\06.Courses\obj\Debug\netcoreapp2.1\06.Courses.dll
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\06.Courses\obj\Debug\netcoreapp2.1\06.Courses.pdb
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\06.Courses\obj\Debug\netcoreapp2.1\06.Courses.csprojAssemblyReference.cache

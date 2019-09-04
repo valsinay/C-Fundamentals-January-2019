@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\1.Ages.deps.json
+C:\Users\Yanislav\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\1.Ages.runtimeconfig.json
+C:\Users\Yanislav\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\1.Ages.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\1.Ages.dll
+C:\Users\Yanislav\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\1.Ages.pdb
+C:\Users\Yanislav\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\1.Ages.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\1.Ages.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\1.Ages.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\1.Ages.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\1.Ages.dll
+C:\Users\Yanislav\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\1.Ages.pdb

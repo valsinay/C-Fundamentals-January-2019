@@ -1,0 +1,10 @@
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\5.PoundToDollar\bin\Debug\netcoreapp2.1\5.PoundToDollar.deps.json
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\5.PoundToDollar\bin\Debug\netcoreapp2.1\5.PoundToDollar.runtimeconfig.json
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\5.PoundToDollar\bin\Debug\netcoreapp2.1\5.PoundToDollar.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\5.PoundToDollar\bin\Debug\netcoreapp2.1\5.PoundToDollar.dll
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\5.PoundToDollar\bin\Debug\netcoreapp2.1\5.PoundToDollar.pdb
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\5.PoundToDollar\obj\Debug\netcoreapp2.1\5.PoundToDollar.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\5.PoundToDollar\obj\Debug\netcoreapp2.1\5.PoundToDollar.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\5.PoundToDollar\obj\Debug\netcoreapp2.1\5.PoundToDollar.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\5.PoundToDollar\obj\Debug\netcoreapp2.1\5.PoundToDollar.dll
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\5.PoundToDollar\obj\Debug\netcoreapp2.1\5.PoundToDollar.pdb

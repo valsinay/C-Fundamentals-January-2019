@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\ExamExercises\02.SoftUniCoffee\bin\Debug\netcoreapp2.1\02.SoftUniCoffee.deps.json
+C:\Users\Yanislav\source\repos\ExamExercises\02.SoftUniCoffee\bin\Debug\netcoreapp2.1\02.SoftUniCoffee.runtimeconfig.json
+C:\Users\Yanislav\source\repos\ExamExercises\02.SoftUniCoffee\bin\Debug\netcoreapp2.1\02.SoftUniCoffee.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\ExamExercises\02.SoftUniCoffee\bin\Debug\netcoreapp2.1\02.SoftUniCoffee.dll
+C:\Users\Yanislav\source\repos\ExamExercises\02.SoftUniCoffee\bin\Debug\netcoreapp2.1\02.SoftUniCoffee.pdb
+C:\Users\Yanislav\source\repos\ExamExercises\02.SoftUniCoffee\obj\Debug\netcoreapp2.1\02.SoftUniCoffee.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\ExamExercises\02.SoftUniCoffee\obj\Debug\netcoreapp2.1\02.SoftUniCoffee.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\ExamExercises\02.SoftUniCoffee\obj\Debug\netcoreapp2.1\02.SoftUniCoffee.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\ExamExercises\02.SoftUniCoffee\obj\Debug\netcoreapp2.1\02.SoftUniCoffee.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\ExamExercises\02.SoftUniCoffee\obj\Debug\netcoreapp2.1\02.SoftUniCoffee.dll
+C:\Users\Yanislav\source\repos\ExamExercises\02.SoftUniCoffee\obj\Debug\netcoreapp2.1\02.SoftUniCoffee.pdb

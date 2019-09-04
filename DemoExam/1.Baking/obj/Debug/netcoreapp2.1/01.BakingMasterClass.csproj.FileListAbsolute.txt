@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\DemoExam\1.Baking\bin\Debug\netcoreapp2.1\01.BakingMasterClass.deps.json
+C:\Users\Yanislav\source\repos\DemoExam\1.Baking\bin\Debug\netcoreapp2.1\01.BakingMasterClass.runtimeconfig.json
+C:\Users\Yanislav\source\repos\DemoExam\1.Baking\bin\Debug\netcoreapp2.1\01.BakingMasterClass.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\DemoExam\1.Baking\bin\Debug\netcoreapp2.1\01.BakingMasterClass.dll
+C:\Users\Yanislav\source\repos\DemoExam\1.Baking\bin\Debug\netcoreapp2.1\01.BakingMasterClass.pdb
+C:\Users\Yanislav\source\repos\DemoExam\1.Baking\obj\Debug\netcoreapp2.1\01.BakingMasterClass.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\DemoExam\1.Baking\obj\Debug\netcoreapp2.1\01.BakingMasterClass.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\DemoExam\1.Baking\obj\Debug\netcoreapp2.1\01.BakingMasterClass.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\DemoExam\1.Baking\obj\Debug\netcoreapp2.1\01.BakingMasterClass.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\DemoExam\1.Baking\obj\Debug\netcoreapp2.1\01.BakingMasterClass.dll
+C:\Users\Yanislav\source\repos\DemoExam\1.Baking\obj\Debug\netcoreapp2.1\01.BakingMasterClass.pdb

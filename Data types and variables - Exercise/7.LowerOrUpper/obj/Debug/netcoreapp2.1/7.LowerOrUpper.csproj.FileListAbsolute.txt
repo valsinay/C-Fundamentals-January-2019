@@ -1,0 +1,10 @@
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\7.LowerOrUpper\bin\Debug\netcoreapp2.1\7.LowerOrUpper.deps.json
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\7.LowerOrUpper\bin\Debug\netcoreapp2.1\7.LowerOrUpper.runtimeconfig.json
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\7.LowerOrUpper\bin\Debug\netcoreapp2.1\7.LowerOrUpper.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\7.LowerOrUpper\bin\Debug\netcoreapp2.1\7.LowerOrUpper.dll
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\7.LowerOrUpper\bin\Debug\netcoreapp2.1\7.LowerOrUpper.pdb
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\7.LowerOrUpper\obj\Debug\netcoreapp2.1\7.LowerOrUpper.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\7.LowerOrUpper\obj\Debug\netcoreapp2.1\7.LowerOrUpper.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\7.LowerOrUpper\obj\Debug\netcoreapp2.1\7.LowerOrUpper.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\7.LowerOrUpper\obj\Debug\netcoreapp2.1\7.LowerOrUpper.dll
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\7.LowerOrUpper\obj\Debug\netcoreapp2.1\7.LowerOrUpper.pdb

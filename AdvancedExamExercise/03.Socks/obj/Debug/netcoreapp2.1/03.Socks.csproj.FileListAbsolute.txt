@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\03.Socks\bin\Debug\netcoreapp2.1\03.Socks.deps.json
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\03.Socks\bin\Debug\netcoreapp2.1\03.Socks.runtimeconfig.json
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\03.Socks\bin\Debug\netcoreapp2.1\03.Socks.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\03.Socks\bin\Debug\netcoreapp2.1\03.Socks.dll
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\03.Socks\bin\Debug\netcoreapp2.1\03.Socks.pdb
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\03.Socks\obj\Debug\netcoreapp2.1\03.Socks.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\03.Socks\obj\Debug\netcoreapp2.1\03.Socks.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\03.Socks\obj\Debug\netcoreapp2.1\03.Socks.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\03.Socks\obj\Debug\netcoreapp2.1\03.Socks.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\03.Socks\obj\Debug\netcoreapp2.1\03.Socks.dll
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\03.Socks\obj\Debug\netcoreapp2.1\03.Socks.pdb

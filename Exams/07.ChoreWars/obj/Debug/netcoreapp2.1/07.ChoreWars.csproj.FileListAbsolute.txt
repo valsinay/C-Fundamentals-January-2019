@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\Exams\07.ChoreWars\bin\Debug\netcoreapp2.1\07.ChoreWars.deps.json
+C:\Users\Yanislav\source\repos\Exams\07.ChoreWars\bin\Debug\netcoreapp2.1\07.ChoreWars.runtimeconfig.json
+C:\Users\Yanislav\source\repos\Exams\07.ChoreWars\bin\Debug\netcoreapp2.1\07.ChoreWars.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\Exams\07.ChoreWars\bin\Debug\netcoreapp2.1\07.ChoreWars.dll
+C:\Users\Yanislav\source\repos\Exams\07.ChoreWars\bin\Debug\netcoreapp2.1\07.ChoreWars.pdb
+C:\Users\Yanislav\source\repos\Exams\07.ChoreWars\obj\Debug\netcoreapp2.1\07.ChoreWars.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\Exams\07.ChoreWars\obj\Debug\netcoreapp2.1\07.ChoreWars.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\Exams\07.ChoreWars\obj\Debug\netcoreapp2.1\07.ChoreWars.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\Exams\07.ChoreWars\obj\Debug\netcoreapp2.1\07.ChoreWars.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\Exams\07.ChoreWars\obj\Debug\netcoreapp2.1\07.ChoreWars.dll
+C:\Users\Yanislav\source\repos\Exams\07.ChoreWars\obj\Debug\netcoreapp2.1\07.ChoreWars.pdb

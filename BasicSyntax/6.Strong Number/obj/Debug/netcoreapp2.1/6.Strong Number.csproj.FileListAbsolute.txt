@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\ConsoleApp1\6.Strong Number\bin\Debug\netcoreapp2.1\6.Strong Number.deps.json
+C:\Users\Yanislav\source\repos\ConsoleApp1\6.Strong Number\bin\Debug\netcoreapp2.1\6.Strong Number.runtimeconfig.json
+C:\Users\Yanislav\source\repos\ConsoleApp1\6.Strong Number\bin\Debug\netcoreapp2.1\6.Strong Number.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\ConsoleApp1\6.Strong Number\bin\Debug\netcoreapp2.1\6.Strong Number.dll
+C:\Users\Yanislav\source\repos\ConsoleApp1\6.Strong Number\bin\Debug\netcoreapp2.1\6.Strong Number.pdb
+C:\Users\Yanislav\source\repos\ConsoleApp1\6.Strong Number\obj\Debug\netcoreapp2.1\6.Strong Number.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\ConsoleApp1\6.Strong Number\obj\Debug\netcoreapp2.1\6.Strong Number.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\ConsoleApp1\6.Strong Number\obj\Debug\netcoreapp2.1\6.Strong Number.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\ConsoleApp1\6.Strong Number\obj\Debug\netcoreapp2.1\6.Strong Number.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\ConsoleApp1\6.Strong Number\obj\Debug\netcoreapp2.1\6.Strong Number.dll
+C:\Users\Yanislav\source\repos\ConsoleApp1\6.Strong Number\obj\Debug\netcoreapp2.1\6.Strong Number.pdb

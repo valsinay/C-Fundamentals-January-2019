@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\9.Pokemon\bin\Debug\netcoreapp2.1\9.Pokemon.deps.json
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\9.Pokemon\bin\Debug\netcoreapp2.1\9.Pokemon.runtimeconfig.json
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\9.Pokemon\bin\Debug\netcoreapp2.1\9.Pokemon.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\9.Pokemon\bin\Debug\netcoreapp2.1\9.Pokemon.dll
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\9.Pokemon\bin\Debug\netcoreapp2.1\9.Pokemon.pdb
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\9.Pokemon\obj\Debug\netcoreapp2.1\9.Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\9.Pokemon\obj\Debug\netcoreapp2.1\9.Pokemon.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\9.Pokemon\obj\Debug\netcoreapp2.1\9.Pokemon.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\9.Pokemon\obj\Debug\netcoreapp2.1\9.Pokemon.dll
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\9.Pokemon\obj\Debug\netcoreapp2.1\9.Pokemon.pdb
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\9.Pokemon\obj\Debug\netcoreapp2.1\9.Pokemon.csprojAssemblyReference.cache

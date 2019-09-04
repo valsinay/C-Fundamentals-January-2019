@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\BasicSyntax\9.Padawan equipment\obj\Debug\netcoreapp2.1\9.Padawan equipment.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\BasicSyntax\9.Padawan equipment\obj\Debug\netcoreapp2.1\9.Padawan equipment.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\BasicSyntax\9.Padawan equipment\obj\Debug\netcoreapp2.1\9.Padawan equipment.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\BasicSyntax\9.Padawan equipment\obj\Debug\netcoreapp2.1\9.Padawan equipment.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\BasicSyntax\9.Padawan equipment\bin\Debug\netcoreapp2.1\9.Padawan equipment.deps.json
+C:\Users\Yanislav\source\repos\BasicSyntax\9.Padawan equipment\bin\Debug\netcoreapp2.1\9.Padawan equipment.runtimeconfig.json
+C:\Users\Yanislav\source\repos\BasicSyntax\9.Padawan equipment\bin\Debug\netcoreapp2.1\9.Padawan equipment.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\BasicSyntax\9.Padawan equipment\bin\Debug\netcoreapp2.1\9.Padawan equipment.dll
+C:\Users\Yanislav\source\repos\BasicSyntax\9.Padawan equipment\bin\Debug\netcoreapp2.1\9.Padawan equipment.pdb
+C:\Users\Yanislav\source\repos\BasicSyntax\9.Padawan equipment\obj\Debug\netcoreapp2.1\9.Padawan equipment.dll
+C:\Users\Yanislav\source\repos\BasicSyntax\9.Padawan equipment\obj\Debug\netcoreapp2.1\9.Padawan equipment.pdb

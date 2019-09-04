@@ -1,0 +1,10 @@
+C:\Users\Yanislav\source\repos\ConsoleApp2\02.QueueStuff\bin\Debug\netcoreapp2.1\02.QueueStuff.deps.json
+C:\Users\Yanislav\source\repos\ConsoleApp2\02.QueueStuff\bin\Debug\netcoreapp2.1\02.QueueStuff.runtimeconfig.json
+C:\Users\Yanislav\source\repos\ConsoleApp2\02.QueueStuff\bin\Debug\netcoreapp2.1\02.QueueStuff.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\ConsoleApp2\02.QueueStuff\bin\Debug\netcoreapp2.1\02.QueueStuff.dll
+C:\Users\Yanislav\source\repos\ConsoleApp2\02.QueueStuff\bin\Debug\netcoreapp2.1\02.QueueStuff.pdb
+C:\Users\Yanislav\source\repos\ConsoleApp2\02.QueueStuff\obj\Debug\netcoreapp2.1\02.QueueStuff.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\ConsoleApp2\02.QueueStuff\obj\Debug\netcoreapp2.1\02.QueueStuff.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\ConsoleApp2\02.QueueStuff\obj\Debug\netcoreapp2.1\02.QueueStuff.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\ConsoleApp2\02.QueueStuff\obj\Debug\netcoreapp2.1\02.QueueStuff.dll
+C:\Users\Yanislav\source\repos\ConsoleApp2\02.QueueStuff\obj\Debug\netcoreapp2.1\02.QueueStuff.pdb

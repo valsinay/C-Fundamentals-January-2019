@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\01.PartyProfit\03.Quests\bin\Debug\netcoreapp2.1\03.Quests.deps.json
+C:\Users\Yanislav\source\repos\01.PartyProfit\03.Quests\bin\Debug\netcoreapp2.1\03.Quests.runtimeconfig.json
+C:\Users\Yanislav\source\repos\01.PartyProfit\03.Quests\bin\Debug\netcoreapp2.1\03.Quests.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\01.PartyProfit\03.Quests\bin\Debug\netcoreapp2.1\03.Quests.dll
+C:\Users\Yanislav\source\repos\01.PartyProfit\03.Quests\bin\Debug\netcoreapp2.1\03.Quests.pdb
+C:\Users\Yanislav\source\repos\01.PartyProfit\03.Quests\obj\Debug\netcoreapp2.1\03.Quests.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\01.PartyProfit\03.Quests\obj\Debug\netcoreapp2.1\03.Quests.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\01.PartyProfit\03.Quests\obj\Debug\netcoreapp2.1\03.Quests.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\01.PartyProfit\03.Quests\obj\Debug\netcoreapp2.1\03.Quests.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\01.PartyProfit\03.Quests\obj\Debug\netcoreapp2.1\03.Quests.dll
+C:\Users\Yanislav\source\repos\01.PartyProfit\03.Quests\obj\Debug\netcoreapp2.1\03.Quests.pdb

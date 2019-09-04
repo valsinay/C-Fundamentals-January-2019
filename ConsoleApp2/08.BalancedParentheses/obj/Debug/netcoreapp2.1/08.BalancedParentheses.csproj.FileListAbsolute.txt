@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\ConsoleApp2\08.BalancedParentheses\bin\Debug\netcoreapp2.1\08.BalancedParentheses.deps.json
+C:\Users\Yanislav\source\repos\ConsoleApp2\08.BalancedParentheses\bin\Debug\netcoreapp2.1\08.BalancedParentheses.runtimeconfig.json
+C:\Users\Yanislav\source\repos\ConsoleApp2\08.BalancedParentheses\bin\Debug\netcoreapp2.1\08.BalancedParentheses.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\ConsoleApp2\08.BalancedParentheses\bin\Debug\netcoreapp2.1\08.BalancedParentheses.dll
+C:\Users\Yanislav\source\repos\ConsoleApp2\08.BalancedParentheses\bin\Debug\netcoreapp2.1\08.BalancedParentheses.pdb
+C:\Users\Yanislav\source\repos\ConsoleApp2\08.BalancedParentheses\obj\Debug\netcoreapp2.1\08.BalancedParentheses.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\ConsoleApp2\08.BalancedParentheses\obj\Debug\netcoreapp2.1\08.BalancedParentheses.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\ConsoleApp2\08.BalancedParentheses\obj\Debug\netcoreapp2.1\08.BalancedParentheses.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\ConsoleApp2\08.BalancedParentheses\obj\Debug\netcoreapp2.1\08.BalancedParentheses.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\ConsoleApp2\08.BalancedParentheses\obj\Debug\netcoreapp2.1\08.BalancedParentheses.dll
+C:\Users\Yanislav\source\repos\ConsoleApp2\08.BalancedParentheses\obj\Debug\netcoreapp2.1\08.BalancedParentheses.pdb

@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\ArraysMoreExercise\1.EncryptSort\bin\Debug\netcoreapp2.1\1.EncryptSort.deps.json
+C:\Users\Yanislav\source\repos\ArraysMoreExercise\1.EncryptSort\bin\Debug\netcoreapp2.1\1.EncryptSort.runtimeconfig.json
+C:\Users\Yanislav\source\repos\ArraysMoreExercise\1.EncryptSort\bin\Debug\netcoreapp2.1\1.EncryptSort.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\ArraysMoreExercise\1.EncryptSort\bin\Debug\netcoreapp2.1\1.EncryptSort.dll
+C:\Users\Yanislav\source\repos\ArraysMoreExercise\1.EncryptSort\bin\Debug\netcoreapp2.1\1.EncryptSort.pdb
+C:\Users\Yanislav\source\repos\ArraysMoreExercise\1.EncryptSort\obj\Debug\netcoreapp2.1\1.EncryptSort.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\ArraysMoreExercise\1.EncryptSort\obj\Debug\netcoreapp2.1\1.EncryptSort.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\ArraysMoreExercise\1.EncryptSort\obj\Debug\netcoreapp2.1\1.EncryptSort.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\ArraysMoreExercise\1.EncryptSort\obj\Debug\netcoreapp2.1\1.EncryptSort.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\ArraysMoreExercise\1.EncryptSort\obj\Debug\netcoreapp2.1\1.EncryptSort.dll
+C:\Users\Yanislav\source\repos\ArraysMoreExercise\1.EncryptSort\obj\Debug\netcoreapp2.1\1.EncryptSort.pdb

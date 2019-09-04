@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\ConsoleApp1\bin\Debug\netcoreapp2.1\05.SoftUniParking.deps.json
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\ConsoleApp1\bin\Debug\netcoreapp2.1\05.SoftUniParking.runtimeconfig.json
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\ConsoleApp1\bin\Debug\netcoreapp2.1\05.SoftUniParking.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\ConsoleApp1\bin\Debug\netcoreapp2.1\05.SoftUniParking.dll
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\ConsoleApp1\bin\Debug\netcoreapp2.1\05.SoftUniParking.pdb
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\ConsoleApp1\obj\Debug\netcoreapp2.1\05.SoftUniParking.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\ConsoleApp1\obj\Debug\netcoreapp2.1\05.SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\ConsoleApp1\obj\Debug\netcoreapp2.1\05.SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\ConsoleApp1\obj\Debug\netcoreapp2.1\05.SoftUniParking.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\ConsoleApp1\obj\Debug\netcoreapp2.1\05.SoftUniParking.dll
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\ConsoleApp1\obj\Debug\netcoreapp2.1\05.SoftUniParking.pdb

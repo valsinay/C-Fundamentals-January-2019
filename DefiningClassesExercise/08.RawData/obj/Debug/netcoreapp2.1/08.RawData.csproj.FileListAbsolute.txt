@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\08.RawData\bin\Debug\netcoreapp2.1\08.RawData.deps.json
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\08.RawData\bin\Debug\netcoreapp2.1\08.RawData.runtimeconfig.json
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\08.RawData\bin\Debug\netcoreapp2.1\08.RawData.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\08.RawData\bin\Debug\netcoreapp2.1\08.RawData.dll
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\08.RawData\bin\Debug\netcoreapp2.1\08.RawData.pdb
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\08.RawData\obj\Debug\netcoreapp2.1\08.RawData.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\08.RawData\obj\Debug\netcoreapp2.1\08.RawData.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\08.RawData\obj\Debug\netcoreapp2.1\08.RawData.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\08.RawData\obj\Debug\netcoreapp2.1\08.RawData.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\08.RawData\obj\Debug\netcoreapp2.1\08.RawData.dll
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\08.RawData\obj\Debug\netcoreapp2.1\08.RawData.pdb

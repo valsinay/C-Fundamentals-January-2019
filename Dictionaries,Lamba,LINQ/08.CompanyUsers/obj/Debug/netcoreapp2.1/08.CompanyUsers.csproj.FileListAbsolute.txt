@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\08.CompanyUsers\bin\Debug\netcoreapp2.1\08.CompanyUsers.deps.json
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\08.CompanyUsers\bin\Debug\netcoreapp2.1\08.CompanyUsers.runtimeconfig.json
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\08.CompanyUsers\bin\Debug\netcoreapp2.1\08.CompanyUsers.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\08.CompanyUsers\bin\Debug\netcoreapp2.1\08.CompanyUsers.dll
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\08.CompanyUsers\bin\Debug\netcoreapp2.1\08.CompanyUsers.pdb
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\08.CompanyUsers\obj\Debug\netcoreapp2.1\08.CompanyUsers.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\08.CompanyUsers\obj\Debug\netcoreapp2.1\08.CompanyUsers.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\08.CompanyUsers\obj\Debug\netcoreapp2.1\08.CompanyUsers.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\08.CompanyUsers\obj\Debug\netcoreapp2.1\08.CompanyUsers.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\08.CompanyUsers\obj\Debug\netcoreapp2.1\08.CompanyUsers.dll
+C:\Users\Yanislav\source\repos\Dictionaries,Lamba,LINQ\08.CompanyUsers\obj\Debug\netcoreapp2.1\08.CompanyUsers.pdb

@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\ExamExercises\03.LeagueStandings\bin\Debug\netcoreapp2.1\03.LeagueStandings.deps.json
+C:\Users\Yanislav\source\repos\ExamExercises\03.LeagueStandings\bin\Debug\netcoreapp2.1\03.LeagueStandings.runtimeconfig.json
+C:\Users\Yanislav\source\repos\ExamExercises\03.LeagueStandings\bin\Debug\netcoreapp2.1\03.LeagueStandings.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\ExamExercises\03.LeagueStandings\bin\Debug\netcoreapp2.1\03.LeagueStandings.dll
+C:\Users\Yanislav\source\repos\ExamExercises\03.LeagueStandings\bin\Debug\netcoreapp2.1\03.LeagueStandings.pdb
+C:\Users\Yanislav\source\repos\ExamExercises\03.LeagueStandings\obj\Debug\netcoreapp2.1\03.LeagueStandings.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\ExamExercises\03.LeagueStandings\obj\Debug\netcoreapp2.1\03.LeagueStandings.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\ExamExercises\03.LeagueStandings\obj\Debug\netcoreapp2.1\03.LeagueStandings.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\ExamExercises\03.LeagueStandings\obj\Debug\netcoreapp2.1\03.LeagueStandings.dll
+C:\Users\Yanislav\source\repos\ExamExercises\03.LeagueStandings\obj\Debug\netcoreapp2.1\03.LeagueStandings.pdb
+C:\Users\Yanislav\source\repos\ExamExercises\03.LeagueStandings\obj\Debug\netcoreapp2.1\03.LeagueStandings.csprojAssemblyReference.cache

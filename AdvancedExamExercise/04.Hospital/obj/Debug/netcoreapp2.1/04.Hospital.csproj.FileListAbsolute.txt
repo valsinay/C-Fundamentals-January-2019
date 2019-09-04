@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\04.Hospital\bin\Debug\netcoreapp2.1\04.Hospital.deps.json
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\04.Hospital\bin\Debug\netcoreapp2.1\04.Hospital.runtimeconfig.json
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\04.Hospital\bin\Debug\netcoreapp2.1\04.Hospital.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\04.Hospital\bin\Debug\netcoreapp2.1\04.Hospital.dll
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\04.Hospital\bin\Debug\netcoreapp2.1\04.Hospital.pdb
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\04.Hospital\obj\Debug\netcoreapp2.1\04.Hospital.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\04.Hospital\obj\Debug\netcoreapp2.1\04.Hospital.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\04.Hospital\obj\Debug\netcoreapp2.1\04.Hospital.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\04.Hospital\obj\Debug\netcoreapp2.1\04.Hospital.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\04.Hospital\obj\Debug\netcoreapp2.1\04.Hospital.dll
+C:\Users\Yanislav\source\repos\AdvancedExamExercise\04.Hospital\obj\Debug\netcoreapp2.1\04.Hospital.pdb

@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\FunctionalProgramming\07.PredicateForNames\bin\Debug\netcoreapp2.1\07.PredicateForNames.deps.json
+C:\Users\Yanislav\source\repos\FunctionalProgramming\07.PredicateForNames\bin\Debug\netcoreapp2.1\07.PredicateForNames.runtimeconfig.json
+C:\Users\Yanislav\source\repos\FunctionalProgramming\07.PredicateForNames\bin\Debug\netcoreapp2.1\07.PredicateForNames.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\FunctionalProgramming\07.PredicateForNames\bin\Debug\netcoreapp2.1\07.PredicateForNames.dll
+C:\Users\Yanislav\source\repos\FunctionalProgramming\07.PredicateForNames\bin\Debug\netcoreapp2.1\07.PredicateForNames.pdb
+C:\Users\Yanislav\source\repos\FunctionalProgramming\07.PredicateForNames\obj\Debug\netcoreapp2.1\07.PredicateForNames.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\FunctionalProgramming\07.PredicateForNames\obj\Debug\netcoreapp2.1\07.PredicateForNames.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\FunctionalProgramming\07.PredicateForNames\obj\Debug\netcoreapp2.1\07.PredicateForNames.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\FunctionalProgramming\07.PredicateForNames\obj\Debug\netcoreapp2.1\07.PredicateForNames.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\FunctionalProgramming\07.PredicateForNames\obj\Debug\netcoreapp2.1\07.PredicateForNames.dll
+C:\Users\Yanislav\source\repos\FunctionalProgramming\07.PredicateForNames\obj\Debug\netcoreapp2.1\07.PredicateForNames.pdb

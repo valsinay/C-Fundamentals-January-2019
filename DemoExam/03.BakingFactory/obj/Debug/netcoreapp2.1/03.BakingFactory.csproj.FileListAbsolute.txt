@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\DemoExam\03.BakingFactory\bin\Debug\netcoreapp2.1\03.BakingFactory.deps.json
+C:\Users\Yanislav\source\repos\DemoExam\03.BakingFactory\bin\Debug\netcoreapp2.1\03.BakingFactory.runtimeconfig.json
+C:\Users\Yanislav\source\repos\DemoExam\03.BakingFactory\bin\Debug\netcoreapp2.1\03.BakingFactory.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\DemoExam\03.BakingFactory\bin\Debug\netcoreapp2.1\03.BakingFactory.dll
+C:\Users\Yanislav\source\repos\DemoExam\03.BakingFactory\bin\Debug\netcoreapp2.1\03.BakingFactory.pdb
+C:\Users\Yanislav\source\repos\DemoExam\03.BakingFactory\obj\Debug\netcoreapp2.1\03.BakingFactory.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\DemoExam\03.BakingFactory\obj\Debug\netcoreapp2.1\03.BakingFactory.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\DemoExam\03.BakingFactory\obj\Debug\netcoreapp2.1\03.BakingFactory.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\DemoExam\03.BakingFactory\obj\Debug\netcoreapp2.1\03.BakingFactory.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\DemoExam\03.BakingFactory\obj\Debug\netcoreapp2.1\03.BakingFactory.dll
+C:\Users\Yanislav\source\repos\DemoExam\03.BakingFactory\obj\Debug\netcoreapp2.1\03.BakingFactory.pdb

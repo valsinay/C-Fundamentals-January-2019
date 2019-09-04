@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\ConsoleApp2\someExercise\bin\Debug\netcoreapp2.1\someExercise.deps.json
+C:\Users\Yanislav\source\repos\ConsoleApp2\someExercise\bin\Debug\netcoreapp2.1\someExercise.runtimeconfig.json
+C:\Users\Yanislav\source\repos\ConsoleApp2\someExercise\bin\Debug\netcoreapp2.1\someExercise.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\ConsoleApp2\someExercise\bin\Debug\netcoreapp2.1\someExercise.dll
+C:\Users\Yanislav\source\repos\ConsoleApp2\someExercise\bin\Debug\netcoreapp2.1\someExercise.pdb
+C:\Users\Yanislav\source\repos\ConsoleApp2\someExercise\obj\Debug\netcoreapp2.1\someExercise.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\ConsoleApp2\someExercise\obj\Debug\netcoreapp2.1\someExercise.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\ConsoleApp2\someExercise\obj\Debug\netcoreapp2.1\someExercise.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\ConsoleApp2\someExercise\obj\Debug\netcoreapp2.1\someExercise.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\ConsoleApp2\someExercise\obj\Debug\netcoreapp2.1\someExercise.dll
+C:\Users\Yanislav\source\repos\ConsoleApp2\someExercise\obj\Debug\netcoreapp2.1\someExercise.pdb

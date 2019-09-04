@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\ArraysExercise\6.EqualSums\bin\Debug\netcoreapp2.1\6.EqualSums.deps.json
+C:\Users\Yanislav\source\repos\ArraysExercise\6.EqualSums\bin\Debug\netcoreapp2.1\6.EqualSums.runtimeconfig.json
+C:\Users\Yanislav\source\repos\ArraysExercise\6.EqualSums\bin\Debug\netcoreapp2.1\6.EqualSums.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\ArraysExercise\6.EqualSums\bin\Debug\netcoreapp2.1\6.EqualSums.dll
+C:\Users\Yanislav\source\repos\ArraysExercise\6.EqualSums\bin\Debug\netcoreapp2.1\6.EqualSums.pdb
+C:\Users\Yanislav\source\repos\ArraysExercise\6.EqualSums\obj\Debug\netcoreapp2.1\6.EqualSums.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\ArraysExercise\6.EqualSums\obj\Debug\netcoreapp2.1\6.EqualSums.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\ArraysExercise\6.EqualSums\obj\Debug\netcoreapp2.1\6.EqualSums.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\ArraysExercise\6.EqualSums\obj\Debug\netcoreapp2.1\6.EqualSums.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\ArraysExercise\6.EqualSums\obj\Debug\netcoreapp2.1\6.EqualSums.dll
+C:\Users\Yanislav\source\repos\ArraysExercise\6.EqualSums\obj\Debug\netcoreapp2.1\6.EqualSums.pdb

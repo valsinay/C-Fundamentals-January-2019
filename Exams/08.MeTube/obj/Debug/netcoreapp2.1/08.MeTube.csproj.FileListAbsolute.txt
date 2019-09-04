@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\Exams\08.MeTube\bin\Debug\netcoreapp2.1\08.MeTube.deps.json
+C:\Users\Yanislav\source\repos\Exams\08.MeTube\bin\Debug\netcoreapp2.1\08.MeTube.runtimeconfig.json
+C:\Users\Yanislav\source\repos\Exams\08.MeTube\bin\Debug\netcoreapp2.1\08.MeTube.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\Exams\08.MeTube\bin\Debug\netcoreapp2.1\08.MeTube.dll
+C:\Users\Yanislav\source\repos\Exams\08.MeTube\bin\Debug\netcoreapp2.1\08.MeTube.pdb
+C:\Users\Yanislav\source\repos\Exams\08.MeTube\obj\Debug\netcoreapp2.1\08.MeTube.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\Exams\08.MeTube\obj\Debug\netcoreapp2.1\08.MeTube.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\Exams\08.MeTube\obj\Debug\netcoreapp2.1\08.MeTube.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\Exams\08.MeTube\obj\Debug\netcoreapp2.1\08.MeTube.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\Exams\08.MeTube\obj\Debug\netcoreapp2.1\08.MeTube.dll
+C:\Users\Yanislav\source\repos\Exams\08.MeTube\obj\Debug\netcoreapp2.1\08.MeTube.pdb

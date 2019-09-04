@@ -1,0 +1,10 @@
+C:\Users\Yanislav\source\repos\FunctionalProgramming\06.AppliedArithmetics\bin\Debug\netcoreapp2.1\06.AppliedArithmetics.deps.json
+C:\Users\Yanislav\source\repos\FunctionalProgramming\06.AppliedArithmetics\bin\Debug\netcoreapp2.1\06.AppliedArithmetics.runtimeconfig.json
+C:\Users\Yanislav\source\repos\FunctionalProgramming\06.AppliedArithmetics\bin\Debug\netcoreapp2.1\06.AppliedArithmetics.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\FunctionalProgramming\06.AppliedArithmetics\bin\Debug\netcoreapp2.1\06.AppliedArithmetics.dll
+C:\Users\Yanislav\source\repos\FunctionalProgramming\06.AppliedArithmetics\bin\Debug\netcoreapp2.1\06.AppliedArithmetics.pdb
+C:\Users\Yanislav\source\repos\FunctionalProgramming\06.AppliedArithmetics\obj\Debug\netcoreapp2.1\06.AppliedArithmetics.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\FunctionalProgramming\06.AppliedArithmetics\obj\Debug\netcoreapp2.1\06.AppliedArithmetics.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\FunctionalProgramming\06.AppliedArithmetics\obj\Debug\netcoreapp2.1\06.AppliedArithmetics.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\FunctionalProgramming\06.AppliedArithmetics\obj\Debug\netcoreapp2.1\06.AppliedArithmetics.dll
+C:\Users\Yanislav\source\repos\FunctionalProgramming\06.AppliedArithmetics\obj\Debug\netcoreapp2.1\06.AppliedArithmetics.pdb

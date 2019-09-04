@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\ConsoleApp2\04.FoodRestaurant\bin\Debug\netcoreapp2.1\04.FoodRestaurant.deps.json
+C:\Users\Yanislav\source\repos\ConsoleApp2\04.FoodRestaurant\bin\Debug\netcoreapp2.1\04.FoodRestaurant.runtimeconfig.json
+C:\Users\Yanislav\source\repos\ConsoleApp2\04.FoodRestaurant\bin\Debug\netcoreapp2.1\04.FoodRestaurant.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\ConsoleApp2\04.FoodRestaurant\bin\Debug\netcoreapp2.1\04.FoodRestaurant.dll
+C:\Users\Yanislav\source\repos\ConsoleApp2\04.FoodRestaurant\bin\Debug\netcoreapp2.1\04.FoodRestaurant.pdb
+C:\Users\Yanislav\source\repos\ConsoleApp2\04.FoodRestaurant\obj\Debug\netcoreapp2.1\04.FoodRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\ConsoleApp2\04.FoodRestaurant\obj\Debug\netcoreapp2.1\04.FoodRestaurant.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\ConsoleApp2\04.FoodRestaurant\obj\Debug\netcoreapp2.1\04.FoodRestaurant.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\ConsoleApp2\04.FoodRestaurant\obj\Debug\netcoreapp2.1\04.FoodRestaurant.dll
+C:\Users\Yanislav\source\repos\ConsoleApp2\04.FoodRestaurant\obj\Debug\netcoreapp2.1\04.FoodRestaurant.pdb
+C:\Users\Yanislav\source\repos\ConsoleApp2\04.FoodRestaurant\obj\Debug\netcoreapp2.1\04.FoodRestaurant.csprojAssemblyReference.cache

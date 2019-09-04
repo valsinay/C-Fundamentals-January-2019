@@ -1,0 +1,10 @@
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\4.Meters to Km Converter\bin\Debug\netcoreapp2.1\4.Meters to Km Converter.deps.json
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\4.Meters to Km Converter\bin\Debug\netcoreapp2.1\4.Meters to Km Converter.runtimeconfig.json
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\4.Meters to Km Converter\bin\Debug\netcoreapp2.1\4.Meters to Km Converter.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\4.Meters to Km Converter\bin\Debug\netcoreapp2.1\4.Meters to Km Converter.dll
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\4.Meters to Km Converter\bin\Debug\netcoreapp2.1\4.Meters to Km Converter.pdb
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\4.Meters to Km Converter\obj\Debug\netcoreapp2.1\4.Meters to Km Converter.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\4.Meters to Km Converter\obj\Debug\netcoreapp2.1\4.Meters to Km Converter.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\4.Meters to Km Converter\obj\Debug\netcoreapp2.1\4.Meters to Km Converter.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\4.Meters to Km Converter\obj\Debug\netcoreapp2.1\4.Meters to Km Converter.dll
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\4.Meters to Km Converter\obj\Debug\netcoreapp2.1\4.Meters to Km Converter.pdb

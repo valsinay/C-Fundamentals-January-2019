@@ -1,0 +1,10 @@
+C:\Users\Yanislav\source\repos\BasicSyntax\8.Triangle\bin\Debug\netcoreapp2.1\8.Triangle.deps.json
+C:\Users\Yanislav\source\repos\BasicSyntax\8.Triangle\bin\Debug\netcoreapp2.1\8.Triangle.runtimeconfig.json
+C:\Users\Yanislav\source\repos\BasicSyntax\8.Triangle\bin\Debug\netcoreapp2.1\8.Triangle.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\BasicSyntax\8.Triangle\bin\Debug\netcoreapp2.1\8.Triangle.dll
+C:\Users\Yanislav\source\repos\BasicSyntax\8.Triangle\bin\Debug\netcoreapp2.1\8.Triangle.pdb
+C:\Users\Yanislav\source\repos\BasicSyntax\8.Triangle\obj\Debug\netcoreapp2.1\8.Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\BasicSyntax\8.Triangle\obj\Debug\netcoreapp2.1\8.Triangle.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\BasicSyntax\8.Triangle\obj\Debug\netcoreapp2.1\8.Triangle.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\BasicSyntax\8.Triangle\obj\Debug\netcoreapp2.1\8.Triangle.dll
+C:\Users\Yanislav\source\repos\BasicSyntax\8.Triangle\obj\Debug\netcoreapp2.1\8.Triangle.pdb

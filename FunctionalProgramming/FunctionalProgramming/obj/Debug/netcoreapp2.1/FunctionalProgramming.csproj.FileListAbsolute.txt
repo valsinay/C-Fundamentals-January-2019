@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\01.Action\FunctionalProgramming\bin\Debug\netcoreapp2.1\FunctionalProgramming.deps.json
+C:\Users\Yanislav\source\repos\01.Action\FunctionalProgramming\bin\Debug\netcoreapp2.1\FunctionalProgramming.runtimeconfig.json
+C:\Users\Yanislav\source\repos\01.Action\FunctionalProgramming\bin\Debug\netcoreapp2.1\FunctionalProgramming.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\01.Action\FunctionalProgramming\bin\Debug\netcoreapp2.1\FunctionalProgramming.dll
+C:\Users\Yanislav\source\repos\01.Action\FunctionalProgramming\bin\Debug\netcoreapp2.1\FunctionalProgramming.pdb
+C:\Users\Yanislav\source\repos\01.Action\FunctionalProgramming\obj\Debug\netcoreapp2.1\FunctionalProgramming.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\01.Action\FunctionalProgramming\obj\Debug\netcoreapp2.1\FunctionalProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\01.Action\FunctionalProgramming\obj\Debug\netcoreapp2.1\FunctionalProgramming.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\01.Action\FunctionalProgramming\obj\Debug\netcoreapp2.1\FunctionalProgramming.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\01.Action\FunctionalProgramming\obj\Debug\netcoreapp2.1\FunctionalProgramming.dll
+C:\Users\Yanislav\source\repos\01.Action\FunctionalProgramming\obj\Debug\netcoreapp2.1\FunctionalProgramming.pdb

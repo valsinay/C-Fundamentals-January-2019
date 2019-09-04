@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\09. Rectangle Intersection\bin\Debug\netcoreapp2.1\09. Rectangle Intersection.deps.json
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\09. Rectangle Intersection\bin\Debug\netcoreapp2.1\09. Rectangle Intersection.runtimeconfig.json
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\09. Rectangle Intersection\bin\Debug\netcoreapp2.1\09. Rectangle Intersection.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\09. Rectangle Intersection\bin\Debug\netcoreapp2.1\09. Rectangle Intersection.dll
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\09. Rectangle Intersection\bin\Debug\netcoreapp2.1\09. Rectangle Intersection.pdb
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\09. Rectangle Intersection\obj\Debug\netcoreapp2.1\09. Rectangle Intersection.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\09. Rectangle Intersection\obj\Debug\netcoreapp2.1\09. Rectangle Intersection.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\09. Rectangle Intersection\obj\Debug\netcoreapp2.1\09. Rectangle Intersection.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\09. Rectangle Intersection\obj\Debug\netcoreapp2.1\09. Rectangle Intersection.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\09. Rectangle Intersection\obj\Debug\netcoreapp2.1\09. Rectangle Intersection.dll
+C:\Users\Yanislav\source\repos\DefiningClassesExercise\09. Rectangle Intersection\obj\Debug\netcoreapp2.1\09. Rectangle Intersection.pdb

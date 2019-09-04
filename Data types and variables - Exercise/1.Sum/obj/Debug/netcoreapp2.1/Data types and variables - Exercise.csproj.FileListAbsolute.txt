@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\Data types and variables - Exercise\bin\Debug\netcoreapp2.1\Data types and variables - Exercise.deps.json
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\Data types and variables - Exercise\bin\Debug\netcoreapp2.1\Data types and variables - Exercise.runtimeconfig.json
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\Data types and variables - Exercise\bin\Debug\netcoreapp2.1\Data types and variables - Exercise.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\Data types and variables - Exercise\bin\Debug\netcoreapp2.1\Data types and variables - Exercise.dll
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\Data types and variables - Exercise\bin\Debug\netcoreapp2.1\Data types and variables - Exercise.pdb
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\Data types and variables - Exercise\obj\Debug\netcoreapp2.1\Data types and variables - Exercise.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\Data types and variables - Exercise\obj\Debug\netcoreapp2.1\Data types and variables - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\Data types and variables - Exercise\obj\Debug\netcoreapp2.1\Data types and variables - Exercise.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\Data types and variables - Exercise\obj\Debug\netcoreapp2.1\Data types and variables - Exercise.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\Data types and variables - Exercise\obj\Debug\netcoreapp2.1\Data types and variables - Exercise.dll
+C:\Users\Yanislav\source\repos\Data types and variables - Exercise\Data types and variables - Exercise\obj\Debug\netcoreapp2.1\Data types and variables - Exercise.pdb

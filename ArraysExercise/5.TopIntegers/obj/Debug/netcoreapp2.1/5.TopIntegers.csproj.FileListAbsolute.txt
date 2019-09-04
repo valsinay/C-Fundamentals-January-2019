@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\ArraysExercise\5.TopIntegers\bin\Debug\netcoreapp2.1\5.TopIntegers.deps.json
+C:\Users\Yanislav\source\repos\ArraysExercise\5.TopIntegers\bin\Debug\netcoreapp2.1\5.TopIntegers.runtimeconfig.json
+C:\Users\Yanislav\source\repos\ArraysExercise\5.TopIntegers\bin\Debug\netcoreapp2.1\5.TopIntegers.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\ArraysExercise\5.TopIntegers\bin\Debug\netcoreapp2.1\5.TopIntegers.dll
+C:\Users\Yanislav\source\repos\ArraysExercise\5.TopIntegers\bin\Debug\netcoreapp2.1\5.TopIntegers.pdb
+C:\Users\Yanislav\source\repos\ArraysExercise\5.TopIntegers\obj\Debug\netcoreapp2.1\5.TopIntegers.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\ArraysExercise\5.TopIntegers\obj\Debug\netcoreapp2.1\5.TopIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\ArraysExercise\5.TopIntegers\obj\Debug\netcoreapp2.1\5.TopIntegers.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\ArraysExercise\5.TopIntegers\obj\Debug\netcoreapp2.1\5.TopIntegers.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\ArraysExercise\5.TopIntegers\obj\Debug\netcoreapp2.1\5.TopIntegers.dll
+C:\Users\Yanislav\source\repos\ArraysExercise\5.TopIntegers\obj\Debug\netcoreapp2.1\5.TopIntegers.pdb
