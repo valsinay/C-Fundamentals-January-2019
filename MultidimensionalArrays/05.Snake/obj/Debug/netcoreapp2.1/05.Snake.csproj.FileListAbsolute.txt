@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\MultidimensionalArrays\05.Snake\bin\Debug\netcoreapp2.1\05.Snake.deps.json
+C:\Users\Yanislav\source\repos\MultidimensionalArrays\05.Snake\bin\Debug\netcoreapp2.1\05.Snake.runtimeconfig.json
+C:\Users\Yanislav\source\repos\MultidimensionalArrays\05.Snake\bin\Debug\netcoreapp2.1\05.Snake.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\MultidimensionalArrays\05.Snake\bin\Debug\netcoreapp2.1\05.Snake.dll
+C:\Users\Yanislav\source\repos\MultidimensionalArrays\05.Snake\bin\Debug\netcoreapp2.1\05.Snake.pdb
+C:\Users\Yanislav\source\repos\MultidimensionalArrays\05.Snake\obj\Debug\netcoreapp2.1\05.Snake.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\MultidimensionalArrays\05.Snake\obj\Debug\netcoreapp2.1\05.Snake.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\MultidimensionalArrays\05.Snake\obj\Debug\netcoreapp2.1\05.Snake.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\MultidimensionalArrays\05.Snake\obj\Debug\netcoreapp2.1\05.Snake.dll
+C:\Users\Yanislav\source\repos\MultidimensionalArrays\05.Snake\obj\Debug\netcoreapp2.1\05.Snake.pdb
+C:\Users\Yanislav\source\repos\MultidimensionalArrays\05.Snake\obj\Debug\netcoreapp2.1\05.Snake.csprojAssemblyReference.cache

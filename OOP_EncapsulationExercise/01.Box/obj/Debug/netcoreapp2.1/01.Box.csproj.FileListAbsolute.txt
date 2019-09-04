@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\OOP_EncapsulationExercise\01.Box\bin\Debug\netcoreapp2.1\01.Box.deps.json
+C:\Users\Yanislav\source\repos\OOP_EncapsulationExercise\01.Box\bin\Debug\netcoreapp2.1\01.Box.runtimeconfig.json
+C:\Users\Yanislav\source\repos\OOP_EncapsulationExercise\01.Box\bin\Debug\netcoreapp2.1\01.Box.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\OOP_EncapsulationExercise\01.Box\bin\Debug\netcoreapp2.1\01.Box.dll
+C:\Users\Yanislav\source\repos\OOP_EncapsulationExercise\01.Box\bin\Debug\netcoreapp2.1\01.Box.pdb
+C:\Users\Yanislav\source\repos\OOP_EncapsulationExercise\01.Box\obj\Debug\netcoreapp2.1\01.Box.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\OOP_EncapsulationExercise\01.Box\obj\Debug\netcoreapp2.1\01.Box.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\OOP_EncapsulationExercise\01.Box\obj\Debug\netcoreapp2.1\01.Box.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\OOP_EncapsulationExercise\01.Box\obj\Debug\netcoreapp2.1\01.Box.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\OOP_EncapsulationExercise\01.Box\obj\Debug\netcoreapp2.1\01.Box.dll
+C:\Users\Yanislav\source\repos\OOP_EncapsulationExercise\01.Box\obj\Debug\netcoreapp2.1\01.Box.pdb

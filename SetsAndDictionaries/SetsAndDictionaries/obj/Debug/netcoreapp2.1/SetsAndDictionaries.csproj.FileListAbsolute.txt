@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\SetsAndDictionaries\SetsAndDictionaries\bin\Debug\netcoreapp2.1\SetsAndDictionaries.deps.json
+C:\Users\Yanislav\source\repos\SetsAndDictionaries\SetsAndDictionaries\bin\Debug\netcoreapp2.1\SetsAndDictionaries.runtimeconfig.json
+C:\Users\Yanislav\source\repos\SetsAndDictionaries\SetsAndDictionaries\bin\Debug\netcoreapp2.1\SetsAndDictionaries.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\SetsAndDictionaries\SetsAndDictionaries\bin\Debug\netcoreapp2.1\SetsAndDictionaries.dll
+C:\Users\Yanislav\source\repos\SetsAndDictionaries\SetsAndDictionaries\bin\Debug\netcoreapp2.1\SetsAndDictionaries.pdb
+C:\Users\Yanislav\source\repos\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\netcoreapp2.1\SetsAndDictionaries.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\netcoreapp2.1\SetsAndDictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\netcoreapp2.1\SetsAndDictionaries.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\netcoreapp2.1\SetsAndDictionaries.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\netcoreapp2.1\SetsAndDictionaries.dll
+C:\Users\Yanislav\source\repos\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\netcoreapp2.1\SetsAndDictionaries.pdb

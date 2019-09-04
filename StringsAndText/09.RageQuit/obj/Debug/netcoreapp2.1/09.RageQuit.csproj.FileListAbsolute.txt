@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\StringsAndText\09.RageQuit\bin\Debug\netcoreapp2.1\09.RageQuit.deps.json
+C:\Users\Yanislav\source\repos\StringsAndText\09.RageQuit\bin\Debug\netcoreapp2.1\09.RageQuit.runtimeconfig.json
+C:\Users\Yanislav\source\repos\StringsAndText\09.RageQuit\bin\Debug\netcoreapp2.1\09.RageQuit.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\StringsAndText\09.RageQuit\bin\Debug\netcoreapp2.1\09.RageQuit.dll
+C:\Users\Yanislav\source\repos\StringsAndText\09.RageQuit\bin\Debug\netcoreapp2.1\09.RageQuit.pdb
+C:\Users\Yanislav\source\repos\StringsAndText\09.RageQuit\obj\Debug\netcoreapp2.1\09.RageQuit.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\StringsAndText\09.RageQuit\obj\Debug\netcoreapp2.1\09.RageQuit.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\StringsAndText\09.RageQuit\obj\Debug\netcoreapp2.1\09.RageQuit.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\StringsAndText\09.RageQuit\obj\Debug\netcoreapp2.1\09.RageQuit.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\StringsAndText\09.RageQuit\obj\Debug\netcoreapp2.1\09.RageQuit.dll
+C:\Users\Yanislav\source\repos\StringsAndText\09.RageQuit\obj\Debug\netcoreapp2.1\09.RageQuit.pdb

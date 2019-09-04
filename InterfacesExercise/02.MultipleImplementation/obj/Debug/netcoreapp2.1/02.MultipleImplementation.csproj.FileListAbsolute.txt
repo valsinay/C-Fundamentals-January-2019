@@ -1,0 +1,10 @@
+C:\Users\Yanislav\source\repos\InterfacesExercise\02.MultipleImplementation\bin\Debug\netcoreapp2.1\02.MultipleImplementation.deps.json
+C:\Users\Yanislav\source\repos\InterfacesExercise\02.MultipleImplementation\bin\Debug\netcoreapp2.1\02.MultipleImplementation.runtimeconfig.json
+C:\Users\Yanislav\source\repos\InterfacesExercise\02.MultipleImplementation\bin\Debug\netcoreapp2.1\02.MultipleImplementation.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\InterfacesExercise\02.MultipleImplementation\bin\Debug\netcoreapp2.1\02.MultipleImplementation.dll
+C:\Users\Yanislav\source\repos\InterfacesExercise\02.MultipleImplementation\bin\Debug\netcoreapp2.1\02.MultipleImplementation.pdb
+C:\Users\Yanislav\source\repos\InterfacesExercise\02.MultipleImplementation\obj\Debug\netcoreapp2.1\02.MultipleImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\InterfacesExercise\02.MultipleImplementation\obj\Debug\netcoreapp2.1\02.MultipleImplementation.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\InterfacesExercise\02.MultipleImplementation\obj\Debug\netcoreapp2.1\02.MultipleImplementation.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\InterfacesExercise\02.MultipleImplementation\obj\Debug\netcoreapp2.1\02.MultipleImplementation.dll
+C:\Users\Yanislav\source\repos\InterfacesExercise\02.MultipleImplementation\obj\Debug\netcoreapp2.1\02.MultipleImplementation.pdb

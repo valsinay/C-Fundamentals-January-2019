@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\MultidimensionalArrays\Labs\bin\Debug\netcoreapp2.1\Labs.deps.json
+C:\Users\Yanislav\source\repos\MultidimensionalArrays\Labs\bin\Debug\netcoreapp2.1\Labs.runtimeconfig.json
+C:\Users\Yanislav\source\repos\MultidimensionalArrays\Labs\bin\Debug\netcoreapp2.1\Labs.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\MultidimensionalArrays\Labs\bin\Debug\netcoreapp2.1\Labs.dll
+C:\Users\Yanislav\source\repos\MultidimensionalArrays\Labs\bin\Debug\netcoreapp2.1\Labs.pdb
+C:\Users\Yanislav\source\repos\MultidimensionalArrays\Labs\obj\Debug\netcoreapp2.1\Labs.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\MultidimensionalArrays\Labs\obj\Debug\netcoreapp2.1\Labs.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\MultidimensionalArrays\Labs\obj\Debug\netcoreapp2.1\Labs.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\MultidimensionalArrays\Labs\obj\Debug\netcoreapp2.1\Labs.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\MultidimensionalArrays\Labs\obj\Debug\netcoreapp2.1\Labs.dll
+C:\Users\Yanislav\source\repos\MultidimensionalArrays\Labs\obj\Debug\netcoreapp2.1\Labs.pdb

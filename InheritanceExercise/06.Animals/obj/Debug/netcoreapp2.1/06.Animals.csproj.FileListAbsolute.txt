@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\InheritanceExercise\06.Animals\bin\Debug\netcoreapp2.1\06.Animals.deps.json
+C:\Users\Yanislav\source\repos\InheritanceExercise\06.Animals\bin\Debug\netcoreapp2.1\06.Animals.runtimeconfig.json
+C:\Users\Yanislav\source\repos\InheritanceExercise\06.Animals\bin\Debug\netcoreapp2.1\06.Animals.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\InheritanceExercise\06.Animals\bin\Debug\netcoreapp2.1\06.Animals.dll
+C:\Users\Yanislav\source\repos\InheritanceExercise\06.Animals\bin\Debug\netcoreapp2.1\06.Animals.pdb
+C:\Users\Yanislav\source\repos\InheritanceExercise\06.Animals\obj\Debug\netcoreapp2.1\06.Animals.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\InheritanceExercise\06.Animals\obj\Debug\netcoreapp2.1\06.Animals.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\InheritanceExercise\06.Animals\obj\Debug\netcoreapp2.1\06.Animals.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\InheritanceExercise\06.Animals\obj\Debug\netcoreapp2.1\06.Animals.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\InheritanceExercise\06.Animals\obj\Debug\netcoreapp2.1\06.Animals.dll
+C:\Users\Yanislav\source\repos\InheritanceExercise\06.Animals\obj\Debug\netcoreapp2.1\06.Animals.pdb

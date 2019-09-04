@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\StringsAndText\10.WinningTicket\bin\Debug\netcoreapp2.1\10.WinningTicket.deps.json
+C:\Users\Yanislav\source\repos\StringsAndText\10.WinningTicket\bin\Debug\netcoreapp2.1\10.WinningTicket.runtimeconfig.json
+C:\Users\Yanislav\source\repos\StringsAndText\10.WinningTicket\bin\Debug\netcoreapp2.1\10.WinningTicket.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\StringsAndText\10.WinningTicket\bin\Debug\netcoreapp2.1\10.WinningTicket.dll
+C:\Users\Yanislav\source\repos\StringsAndText\10.WinningTicket\bin\Debug\netcoreapp2.1\10.WinningTicket.pdb
+C:\Users\Yanislav\source\repos\StringsAndText\10.WinningTicket\obj\Debug\netcoreapp2.1\10.WinningTicket.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\StringsAndText\10.WinningTicket\obj\Debug\netcoreapp2.1\10.WinningTicket.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\StringsAndText\10.WinningTicket\obj\Debug\netcoreapp2.1\10.WinningTicket.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\StringsAndText\10.WinningTicket\obj\Debug\netcoreapp2.1\10.WinningTicket.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\StringsAndText\10.WinningTicket\obj\Debug\netcoreapp2.1\10.WinningTicket.dll
+C:\Users\Yanislav\source\repos\StringsAndText\10.WinningTicket\obj\Debug\netcoreapp2.1\10.WinningTicket.pdb

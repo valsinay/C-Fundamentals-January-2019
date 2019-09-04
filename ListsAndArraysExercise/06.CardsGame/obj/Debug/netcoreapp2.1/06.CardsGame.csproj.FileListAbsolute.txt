@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\06.CardsGame\bin\Debug\netcoreapp2.1\06.CardsGame.deps.json
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\06.CardsGame\bin\Debug\netcoreapp2.1\06.CardsGame.runtimeconfig.json
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\06.CardsGame\bin\Debug\netcoreapp2.1\06.CardsGame.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\06.CardsGame\bin\Debug\netcoreapp2.1\06.CardsGame.dll
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\06.CardsGame\bin\Debug\netcoreapp2.1\06.CardsGame.pdb
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\06.CardsGame\obj\Debug\netcoreapp2.1\06.CardsGame.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\06.CardsGame\obj\Debug\netcoreapp2.1\06.CardsGame.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\06.CardsGame\obj\Debug\netcoreapp2.1\06.CardsGame.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\06.CardsGame\obj\Debug\netcoreapp2.1\06.CardsGame.dll
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\06.CardsGame\obj\Debug\netcoreapp2.1\06.CardsGame.pdb
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\06.CardsGame\obj\Debug\netcoreapp2.1\06.CardsGame.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\OOP_Advanced_ExamPreparation\StorageMasterExam\bin\Debug\netcoreapp2.1\StorageMaster.deps.json
+C:\Users\Yanislav\source\repos\OOP_Advanced_ExamPreparation\StorageMasterExam\bin\Debug\netcoreapp2.1\StorageMaster.runtimeconfig.json
+C:\Users\Yanislav\source\repos\OOP_Advanced_ExamPreparation\StorageMasterExam\bin\Debug\netcoreapp2.1\StorageMaster.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\OOP_Advanced_ExamPreparation\StorageMasterExam\bin\Debug\netcoreapp2.1\StorageMaster.dll
+C:\Users\Yanislav\source\repos\OOP_Advanced_ExamPreparation\StorageMasterExam\bin\Debug\netcoreapp2.1\StorageMaster.pdb
+C:\Users\Yanislav\source\repos\OOP_Advanced_ExamPreparation\StorageMasterExam\obj\Debug\netcoreapp2.1\StorageMaster.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\OOP_Advanced_ExamPreparation\StorageMasterExam\obj\Debug\netcoreapp2.1\StorageMaster.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\OOP_Advanced_ExamPreparation\StorageMasterExam\obj\Debug\netcoreapp2.1\StorageMaster.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\OOP_Advanced_ExamPreparation\StorageMasterExam\obj\Debug\netcoreapp2.1\StorageMaster.dll
+C:\Users\Yanislav\source\repos\OOP_Advanced_ExamPreparation\StorageMasterExam\obj\Debug\netcoreapp2.1\StorageMaster.pdb
+C:\Users\Yanislav\source\repos\OOP_Advanced_ExamPreparation\StorageMasterExam\obj\Debug\netcoreapp2.1\StorageMaster.csprojAssemblyReference.cache

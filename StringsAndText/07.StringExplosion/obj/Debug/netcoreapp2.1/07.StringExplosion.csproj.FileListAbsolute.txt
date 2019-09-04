@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\StringsAndText\07.StringExplosion\bin\Debug\netcoreapp2.1\07.StringExplosion.deps.json
+C:\Users\Yanislav\source\repos\StringsAndText\07.StringExplosion\bin\Debug\netcoreapp2.1\07.StringExplosion.runtimeconfig.json
+C:\Users\Yanislav\source\repos\StringsAndText\07.StringExplosion\bin\Debug\netcoreapp2.1\07.StringExplosion.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\StringsAndText\07.StringExplosion\bin\Debug\netcoreapp2.1\07.StringExplosion.dll
+C:\Users\Yanislav\source\repos\StringsAndText\07.StringExplosion\bin\Debug\netcoreapp2.1\07.StringExplosion.pdb
+C:\Users\Yanislav\source\repos\StringsAndText\07.StringExplosion\obj\Debug\netcoreapp2.1\07.StringExplosion.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\StringsAndText\07.StringExplosion\obj\Debug\netcoreapp2.1\07.StringExplosion.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\StringsAndText\07.StringExplosion\obj\Debug\netcoreapp2.1\07.StringExplosion.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\StringsAndText\07.StringExplosion\obj\Debug\netcoreapp2.1\07.StringExplosion.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\StringsAndText\07.StringExplosion\obj\Debug\netcoreapp2.1\07.StringExplosion.dll
+C:\Users\Yanislav\source\repos\StringsAndText\07.StringExplosion\obj\Debug\netcoreapp2.1\07.StringExplosion.pdb

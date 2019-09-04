@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\09.PokemonDontGo\bin\Debug\netcoreapp2.1\09.PokemonDontGo.deps.json
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\09.PokemonDontGo\bin\Debug\netcoreapp2.1\09.PokemonDontGo.runtimeconfig.json
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\09.PokemonDontGo\bin\Debug\netcoreapp2.1\09.PokemonDontGo.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\09.PokemonDontGo\bin\Debug\netcoreapp2.1\09.PokemonDontGo.dll
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\09.PokemonDontGo\bin\Debug\netcoreapp2.1\09.PokemonDontGo.pdb
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\09.PokemonDontGo\obj\Debug\netcoreapp2.1\09.PokemonDontGo.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\09.PokemonDontGo\obj\Debug\netcoreapp2.1\09.PokemonDontGo.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\09.PokemonDontGo\obj\Debug\netcoreapp2.1\09.PokemonDontGo.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\09.PokemonDontGo\obj\Debug\netcoreapp2.1\09.PokemonDontGo.dll
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\09.PokemonDontGo\obj\Debug\netcoreapp2.1\09.PokemonDontGo.pdb
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\09.PokemonDontGo\obj\Debug\netcoreapp2.1\09.PokemonDontGo.csprojAssemblyReference.cache

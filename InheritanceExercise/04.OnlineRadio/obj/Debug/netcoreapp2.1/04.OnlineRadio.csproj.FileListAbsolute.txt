@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\InheritanceExercise\04.OnlineRadio\bin\Debug\netcoreapp2.1\04.OnlineRadio.deps.json
+C:\Users\Yanislav\source\repos\InheritanceExercise\04.OnlineRadio\bin\Debug\netcoreapp2.1\04.OnlineRadio.runtimeconfig.json
+C:\Users\Yanislav\source\repos\InheritanceExercise\04.OnlineRadio\bin\Debug\netcoreapp2.1\04.OnlineRadio.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\InheritanceExercise\04.OnlineRadio\bin\Debug\netcoreapp2.1\04.OnlineRadio.dll
+C:\Users\Yanislav\source\repos\InheritanceExercise\04.OnlineRadio\bin\Debug\netcoreapp2.1\04.OnlineRadio.pdb
+C:\Users\Yanislav\source\repos\InheritanceExercise\04.OnlineRadio\obj\Debug\netcoreapp2.1\04.OnlineRadio.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\InheritanceExercise\04.OnlineRadio\obj\Debug\netcoreapp2.1\04.OnlineRadio.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\InheritanceExercise\04.OnlineRadio\obj\Debug\netcoreapp2.1\04.OnlineRadio.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\InheritanceExercise\04.OnlineRadio\obj\Debug\netcoreapp2.1\04.OnlineRadio.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\InheritanceExercise\04.OnlineRadio\obj\Debug\netcoreapp2.1\04.OnlineRadio.dll
+C:\Users\Yanislav\source\repos\InheritanceExercise\04.OnlineRadio\obj\Debug\netcoreapp2.1\04.OnlineRadio.pdb

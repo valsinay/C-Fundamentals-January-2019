@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\Polymorphism\03.WildFarm\bin\Debug\netcoreapp2.1\03.WildFarm.deps.json
+C:\Users\Yanislav\source\repos\Polymorphism\03.WildFarm\bin\Debug\netcoreapp2.1\03.WildFarm.runtimeconfig.json
+C:\Users\Yanislav\source\repos\Polymorphism\03.WildFarm\bin\Debug\netcoreapp2.1\03.WildFarm.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\Polymorphism\03.WildFarm\bin\Debug\netcoreapp2.1\03.WildFarm.dll
+C:\Users\Yanislav\source\repos\Polymorphism\03.WildFarm\bin\Debug\netcoreapp2.1\03.WildFarm.pdb
+C:\Users\Yanislav\source\repos\Polymorphism\03.WildFarm\obj\Debug\netcoreapp2.1\03.WildFarm.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\Polymorphism\03.WildFarm\obj\Debug\netcoreapp2.1\03.WildFarm.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\Polymorphism\03.WildFarm\obj\Debug\netcoreapp2.1\03.WildFarm.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\Polymorphism\03.WildFarm\obj\Debug\netcoreapp2.1\03.WildFarm.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\Polymorphism\03.WildFarm\obj\Debug\netcoreapp2.1\03.WildFarm.dll
+C:\Users\Yanislav\source\repos\Polymorphism\03.WildFarm\obj\Debug\netcoreapp2.1\03.WildFarm.pdb

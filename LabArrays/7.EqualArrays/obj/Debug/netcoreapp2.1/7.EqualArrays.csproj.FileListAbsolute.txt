@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\LabArrays\7.EqualArrays\bin\Debug\netcoreapp2.1\7.EqualArrays.deps.json
+C:\Users\Yanislav\source\repos\LabArrays\7.EqualArrays\bin\Debug\netcoreapp2.1\7.EqualArrays.runtimeconfig.json
+C:\Users\Yanislav\source\repos\LabArrays\7.EqualArrays\bin\Debug\netcoreapp2.1\7.EqualArrays.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\LabArrays\7.EqualArrays\bin\Debug\netcoreapp2.1\7.EqualArrays.dll
+C:\Users\Yanislav\source\repos\LabArrays\7.EqualArrays\bin\Debug\netcoreapp2.1\7.EqualArrays.pdb
+C:\Users\Yanislav\source\repos\LabArrays\7.EqualArrays\obj\Debug\netcoreapp2.1\7.EqualArrays.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\LabArrays\7.EqualArrays\obj\Debug\netcoreapp2.1\7.EqualArrays.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\LabArrays\7.EqualArrays\obj\Debug\netcoreapp2.1\7.EqualArrays.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\LabArrays\7.EqualArrays\obj\Debug\netcoreapp2.1\7.EqualArrays.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\LabArrays\7.EqualArrays\obj\Debug\netcoreapp2.1\7.EqualArrays.dll
+C:\Users\Yanislav\source\repos\LabArrays\7.EqualArrays\obj\Debug\netcoreapp2.1\7.EqualArrays.pdb

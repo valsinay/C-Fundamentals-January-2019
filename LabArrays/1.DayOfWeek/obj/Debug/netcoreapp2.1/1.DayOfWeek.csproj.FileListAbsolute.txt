@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\LabArrays\1.DayOfWeek\obj\Debug\netcoreapp2.1\1.DayOfWeek.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\LabArrays\1.DayOfWeek\obj\Debug\netcoreapp2.1\1.DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\LabArrays\1.DayOfWeek\obj\Debug\netcoreapp2.1\1.DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\LabArrays\1.DayOfWeek\obj\Debug\netcoreapp2.1\1.DayOfWeek.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\LabArrays\1.DayOfWeek\bin\Debug\netcoreapp2.1\1.DayOfWeek.deps.json
+C:\Users\Yanislav\source\repos\LabArrays\1.DayOfWeek\bin\Debug\netcoreapp2.1\1.DayOfWeek.runtimeconfig.json
+C:\Users\Yanislav\source\repos\LabArrays\1.DayOfWeek\bin\Debug\netcoreapp2.1\1.DayOfWeek.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\LabArrays\1.DayOfWeek\bin\Debug\netcoreapp2.1\1.DayOfWeek.dll
+C:\Users\Yanislav\source\repos\LabArrays\1.DayOfWeek\bin\Debug\netcoreapp2.1\1.DayOfWeek.pdb
+C:\Users\Yanislav\source\repos\LabArrays\1.DayOfWeek\obj\Debug\netcoreapp2.1\1.DayOfWeek.dll
+C:\Users\Yanislav\source\repos\LabArrays\1.DayOfWeek\obj\Debug\netcoreapp2.1\1.DayOfWeek.pdb

@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\SetsAndDictionaries\02.SetsOfElements\bin\Debug\netcoreapp2.1\02.SetsOfElements.deps.json
+C:\Users\Yanislav\source\repos\SetsAndDictionaries\02.SetsOfElements\bin\Debug\netcoreapp2.1\02.SetsOfElements.runtimeconfig.json
+C:\Users\Yanislav\source\repos\SetsAndDictionaries\02.SetsOfElements\bin\Debug\netcoreapp2.1\02.SetsOfElements.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\SetsAndDictionaries\02.SetsOfElements\bin\Debug\netcoreapp2.1\02.SetsOfElements.dll
+C:\Users\Yanislav\source\repos\SetsAndDictionaries\02.SetsOfElements\bin\Debug\netcoreapp2.1\02.SetsOfElements.pdb
+C:\Users\Yanislav\source\repos\SetsAndDictionaries\02.SetsOfElements\obj\Debug\netcoreapp2.1\02.SetsOfElements.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\SetsAndDictionaries\02.SetsOfElements\obj\Debug\netcoreapp2.1\02.SetsOfElements.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\SetsAndDictionaries\02.SetsOfElements\obj\Debug\netcoreapp2.1\02.SetsOfElements.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\SetsAndDictionaries\02.SetsOfElements\obj\Debug\netcoreapp2.1\02.SetsOfElements.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\SetsAndDictionaries\02.SetsOfElements\obj\Debug\netcoreapp2.1\02.SetsOfElements.dll
+C:\Users\Yanislav\source\repos\SetsAndDictionaries\02.SetsOfElements\obj\Debug\netcoreapp2.1\02.SetsOfElements.pdb

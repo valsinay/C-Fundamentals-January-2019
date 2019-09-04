@@ -1,0 +1,12 @@
+C:\Users\Yanislav\source\repos\Streams\Streams\bin\Debug\netcoreapp2.1\Streams.deps.json
+C:\Users\Yanislav\source\repos\Streams\Streams\bin\Debug\netcoreapp2.1\Streams.runtimeconfig.json
+C:\Users\Yanislav\source\repos\Streams\Streams\bin\Debug\netcoreapp2.1\Streams.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\Streams\Streams\bin\Debug\netcoreapp2.1\Streams.dll
+C:\Users\Yanislav\source\repos\Streams\Streams\bin\Debug\netcoreapp2.1\Streams.pdb
+C:\Users\Yanislav\source\repos\Streams\Streams\obj\Debug\netcoreapp2.1\Streams.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\Streams\Streams\obj\Debug\netcoreapp2.1\Streams.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\Streams\Streams\obj\Debug\netcoreapp2.1\Streams.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\Streams\Streams\obj\Debug\netcoreapp2.1\Streams.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\Streams\Streams\obj\Debug\netcoreapp2.1\Streams.dll
+C:\Users\Yanislav\source\repos\Streams\Streams\obj\Debug\netcoreapp2.1\Streams.pdb
+C:\Users\Yanislav\source\repos\Streams\Streams\bin\Debug\netcoreapp2.1\Resources\01. Odd Lines\Input.txt

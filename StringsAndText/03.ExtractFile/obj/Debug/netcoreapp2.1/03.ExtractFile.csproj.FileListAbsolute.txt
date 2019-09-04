@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\StringsAndText\03.ExtractFile\bin\Debug\netcoreapp2.1\03.ExtractFile.deps.json
+C:\Users\Yanislav\source\repos\StringsAndText\03.ExtractFile\bin\Debug\netcoreapp2.1\03.ExtractFile.runtimeconfig.json
+C:\Users\Yanislav\source\repos\StringsAndText\03.ExtractFile\bin\Debug\netcoreapp2.1\03.ExtractFile.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\StringsAndText\03.ExtractFile\bin\Debug\netcoreapp2.1\03.ExtractFile.dll
+C:\Users\Yanislav\source\repos\StringsAndText\03.ExtractFile\bin\Debug\netcoreapp2.1\03.ExtractFile.pdb
+C:\Users\Yanislav\source\repos\StringsAndText\03.ExtractFile\obj\Debug\netcoreapp2.1\03.ExtractFile.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\StringsAndText\03.ExtractFile\obj\Debug\netcoreapp2.1\03.ExtractFile.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\StringsAndText\03.ExtractFile\obj\Debug\netcoreapp2.1\03.ExtractFile.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\StringsAndText\03.ExtractFile\obj\Debug\netcoreapp2.1\03.ExtractFile.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\StringsAndText\03.ExtractFile\obj\Debug\netcoreapp2.1\03.ExtractFile.dll
+C:\Users\Yanislav\source\repos\StringsAndText\03.ExtractFile\obj\Debug\netcoreapp2.1\03.ExtractFile.pdb

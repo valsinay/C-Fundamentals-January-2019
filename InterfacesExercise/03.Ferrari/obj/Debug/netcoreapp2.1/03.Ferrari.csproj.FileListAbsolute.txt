@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\InterfacesExercise\03.Ferrari\bin\Debug\netcoreapp2.1\03.Ferrari.deps.json
+C:\Users\Yanislav\source\repos\InterfacesExercise\03.Ferrari\bin\Debug\netcoreapp2.1\03.Ferrari.runtimeconfig.json
+C:\Users\Yanislav\source\repos\InterfacesExercise\03.Ferrari\bin\Debug\netcoreapp2.1\03.Ferrari.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\InterfacesExercise\03.Ferrari\bin\Debug\netcoreapp2.1\03.Ferrari.dll
+C:\Users\Yanislav\source\repos\InterfacesExercise\03.Ferrari\bin\Debug\netcoreapp2.1\03.Ferrari.pdb
+C:\Users\Yanislav\source\repos\InterfacesExercise\03.Ferrari\obj\Debug\netcoreapp2.1\03.Ferrari.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\InterfacesExercise\03.Ferrari\obj\Debug\netcoreapp2.1\03.Ferrari.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\InterfacesExercise\03.Ferrari\obj\Debug\netcoreapp2.1\03.Ferrari.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\InterfacesExercise\03.Ferrari\obj\Debug\netcoreapp2.1\03.Ferrari.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\InterfacesExercise\03.Ferrari\obj\Debug\netcoreapp2.1\03.Ferrari.dll
+C:\Users\Yanislav\source\repos\InterfacesExercise\03.Ferrari\obj\Debug\netcoreapp2.1\03.Ferrari.pdb

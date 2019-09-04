@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\InterfacesExercise\07.FoodShortage\bin\Debug\netcoreapp2.1\07.FoodShortage.deps.json
+C:\Users\Yanislav\source\repos\InterfacesExercise\07.FoodShortage\bin\Debug\netcoreapp2.1\07.FoodShortage.runtimeconfig.json
+C:\Users\Yanislav\source\repos\InterfacesExercise\07.FoodShortage\bin\Debug\netcoreapp2.1\07.FoodShortage.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\InterfacesExercise\07.FoodShortage\bin\Debug\netcoreapp2.1\07.FoodShortage.dll
+C:\Users\Yanislav\source\repos\InterfacesExercise\07.FoodShortage\bin\Debug\netcoreapp2.1\07.FoodShortage.pdb
+C:\Users\Yanislav\source\repos\InterfacesExercise\07.FoodShortage\obj\Debug\netcoreapp2.1\07.FoodShortage.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\InterfacesExercise\07.FoodShortage\obj\Debug\netcoreapp2.1\07.FoodShortage.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\InterfacesExercise\07.FoodShortage\obj\Debug\netcoreapp2.1\07.FoodShortage.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\InterfacesExercise\07.FoodShortage\obj\Debug\netcoreapp2.1\07.FoodShortage.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\InterfacesExercise\07.FoodShortage\obj\Debug\netcoreapp2.1\07.FoodShortage.dll
+C:\Users\Yanislav\source\repos\InterfacesExercise\07.FoodShortage\obj\Debug\netcoreapp2.1\07.FoodShortage.pdb

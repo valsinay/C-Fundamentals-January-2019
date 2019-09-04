@@ -1,0 +1,10 @@
+C:\Users\Yanislav\source\repos\MethodsExercise\7.NxNMatrix\bin\Debug\netcoreapp2.1\7.NxNMatrix.deps.json
+C:\Users\Yanislav\source\repos\MethodsExercise\7.NxNMatrix\bin\Debug\netcoreapp2.1\7.NxNMatrix.runtimeconfig.json
+C:\Users\Yanislav\source\repos\MethodsExercise\7.NxNMatrix\bin\Debug\netcoreapp2.1\7.NxNMatrix.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\MethodsExercise\7.NxNMatrix\bin\Debug\netcoreapp2.1\7.NxNMatrix.dll
+C:\Users\Yanislav\source\repos\MethodsExercise\7.NxNMatrix\bin\Debug\netcoreapp2.1\7.NxNMatrix.pdb
+C:\Users\Yanislav\source\repos\MethodsExercise\7.NxNMatrix\obj\Debug\netcoreapp2.1\7.NxNMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\MethodsExercise\7.NxNMatrix\obj\Debug\netcoreapp2.1\7.NxNMatrix.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\MethodsExercise\7.NxNMatrix\obj\Debug\netcoreapp2.1\7.NxNMatrix.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\MethodsExercise\7.NxNMatrix\obj\Debug\netcoreapp2.1\7.NxNMatrix.dll
+C:\Users\Yanislav\source\repos\MethodsExercise\7.NxNMatrix\obj\Debug\netcoreapp2.1\7.NxNMatrix.pdb

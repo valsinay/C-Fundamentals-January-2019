@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\Generics\07.Tuple\bin\Debug\netcoreapp2.1\07.Tuple.deps.json
+C:\Users\Yanislav\source\repos\Generics\07.Tuple\bin\Debug\netcoreapp2.1\07.Tuple.runtimeconfig.json
+C:\Users\Yanislav\source\repos\Generics\07.Tuple\bin\Debug\netcoreapp2.1\07.Tuple.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\Generics\07.Tuple\bin\Debug\netcoreapp2.1\07.Tuple.dll
+C:\Users\Yanislav\source\repos\Generics\07.Tuple\bin\Debug\netcoreapp2.1\07.Tuple.pdb
+C:\Users\Yanislav\source\repos\Generics\07.Tuple\obj\Debug\netcoreapp2.1\07.Tuple.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\Generics\07.Tuple\obj\Debug\netcoreapp2.1\07.Tuple.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\Generics\07.Tuple\obj\Debug\netcoreapp2.1\07.Tuple.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\Generics\07.Tuple\obj\Debug\netcoreapp2.1\07.Tuple.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\Generics\07.Tuple\obj\Debug\netcoreapp2.1\07.Tuple.dll
+C:\Users\Yanislav\source\repos\Generics\07.Tuple\obj\Debug\netcoreapp2.1\07.Tuple.pdb

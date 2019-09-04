@@ -1,0 +1,10 @@
+C:\Users\Yanislav\source\repos\StringsAndText\04.Caesar\bin\Debug\netcoreapp2.1\04.Caesar.deps.json
+C:\Users\Yanislav\source\repos\StringsAndText\04.Caesar\bin\Debug\netcoreapp2.1\04.Caesar.runtimeconfig.json
+C:\Users\Yanislav\source\repos\StringsAndText\04.Caesar\bin\Debug\netcoreapp2.1\04.Caesar.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\StringsAndText\04.Caesar\bin\Debug\netcoreapp2.1\04.Caesar.dll
+C:\Users\Yanislav\source\repos\StringsAndText\04.Caesar\bin\Debug\netcoreapp2.1\04.Caesar.pdb
+C:\Users\Yanislav\source\repos\StringsAndText\04.Caesar\obj\Debug\netcoreapp2.1\04.Caesar.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\StringsAndText\04.Caesar\obj\Debug\netcoreapp2.1\04.Caesar.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\StringsAndText\04.Caesar\obj\Debug\netcoreapp2.1\04.Caesar.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\StringsAndText\04.Caesar\obj\Debug\netcoreapp2.1\04.Caesar.dll
+C:\Users\Yanislav\source\repos\StringsAndText\04.Caesar\obj\Debug\netcoreapp2.1\04.Caesar.pdb

@@ -1,0 +1,10 @@
+C:\Users\Yanislav\source\repos\ObjectsAndClasses\04.Students\obj\Debug\netcoreapp2.1\04.Students.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\ObjectsAndClasses\04.Students\obj\Debug\netcoreapp2.1\04.Students.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\ObjectsAndClasses\04.Students\obj\Debug\netcoreapp2.1\04.Students.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\ObjectsAndClasses\04.Students\bin\Debug\netcoreapp2.1\04.Students.deps.json
+C:\Users\Yanislav\source\repos\ObjectsAndClasses\04.Students\bin\Debug\netcoreapp2.1\04.Students.runtimeconfig.json
+C:\Users\Yanislav\source\repos\ObjectsAndClasses\04.Students\bin\Debug\netcoreapp2.1\04.Students.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\ObjectsAndClasses\04.Students\bin\Debug\netcoreapp2.1\04.Students.dll
+C:\Users\Yanislav\source\repos\ObjectsAndClasses\04.Students\bin\Debug\netcoreapp2.1\04.Students.pdb
+C:\Users\Yanislav\source\repos\ObjectsAndClasses\04.Students\obj\Debug\netcoreapp2.1\04.Students.dll
+C:\Users\Yanislav\source\repos\ObjectsAndClasses\04.Students\obj\Debug\netcoreapp2.1\04.Students.pdb

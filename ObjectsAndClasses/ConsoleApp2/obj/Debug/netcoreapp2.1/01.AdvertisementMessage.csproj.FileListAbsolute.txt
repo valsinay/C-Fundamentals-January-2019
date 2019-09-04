@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\ObjectsAndClasses\ConsoleApp2\bin\Debug\netcoreapp2.1\01.AdvertisementMessage.deps.json
+C:\Users\Yanislav\source\repos\ObjectsAndClasses\ConsoleApp2\bin\Debug\netcoreapp2.1\01.AdvertisementMessage.runtimeconfig.json
+C:\Users\Yanislav\source\repos\ObjectsAndClasses\ConsoleApp2\bin\Debug\netcoreapp2.1\01.AdvertisementMessage.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\ObjectsAndClasses\ConsoleApp2\bin\Debug\netcoreapp2.1\01.AdvertisementMessage.dll
+C:\Users\Yanislav\source\repos\ObjectsAndClasses\ConsoleApp2\bin\Debug\netcoreapp2.1\01.AdvertisementMessage.pdb
+C:\Users\Yanislav\source\repos\ObjectsAndClasses\ConsoleApp2\obj\Debug\netcoreapp2.1\01.AdvertisementMessage.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\ObjectsAndClasses\ConsoleApp2\obj\Debug\netcoreapp2.1\01.AdvertisementMessage.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\ObjectsAndClasses\ConsoleApp2\obj\Debug\netcoreapp2.1\01.AdvertisementMessage.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\ObjectsAndClasses\ConsoleApp2\obj\Debug\netcoreapp2.1\01.AdvertisementMessage.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\ObjectsAndClasses\ConsoleApp2\obj\Debug\netcoreapp2.1\01.AdvertisementMessage.dll
+C:\Users\Yanislav\source\repos\ObjectsAndClasses\ConsoleApp2\obj\Debug\netcoreapp2.1\01.AdvertisementMessage.pdb

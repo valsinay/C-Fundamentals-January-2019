@@ -1,0 +1,10 @@
+C:\Users\Yanislav\source\repos\LabArrays\6.EvenOddSubstraction\bin\Debug\netcoreapp2.1\6.EvenOddSubstraction.deps.json
+C:\Users\Yanislav\source\repos\LabArrays\6.EvenOddSubstraction\bin\Debug\netcoreapp2.1\6.EvenOddSubstraction.runtimeconfig.json
+C:\Users\Yanislav\source\repos\LabArrays\6.EvenOddSubstraction\bin\Debug\netcoreapp2.1\6.EvenOddSubstraction.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\LabArrays\6.EvenOddSubstraction\bin\Debug\netcoreapp2.1\6.EvenOddSubstraction.dll
+C:\Users\Yanislav\source\repos\LabArrays\6.EvenOddSubstraction\bin\Debug\netcoreapp2.1\6.EvenOddSubstraction.pdb
+C:\Users\Yanislav\source\repos\LabArrays\6.EvenOddSubstraction\obj\Debug\netcoreapp2.1\6.EvenOddSubstraction.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\LabArrays\6.EvenOddSubstraction\obj\Debug\netcoreapp2.1\6.EvenOddSubstraction.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\LabArrays\6.EvenOddSubstraction\obj\Debug\netcoreapp2.1\6.EvenOddSubstraction.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\LabArrays\6.EvenOddSubstraction\obj\Debug\netcoreapp2.1\6.EvenOddSubstraction.dll
+C:\Users\Yanislav\source\repos\LabArrays\6.EvenOddSubstraction\obj\Debug\netcoreapp2.1\6.EvenOddSubstraction.pdb

@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\LabArrays\8.CondenseArray\bin\Debug\netcoreapp2.1\8.CondenseArray.deps.json
+C:\Users\Yanislav\source\repos\LabArrays\8.CondenseArray\bin\Debug\netcoreapp2.1\8.CondenseArray.runtimeconfig.json
+C:\Users\Yanislav\source\repos\LabArrays\8.CondenseArray\bin\Debug\netcoreapp2.1\8.CondenseArray.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\LabArrays\8.CondenseArray\bin\Debug\netcoreapp2.1\8.CondenseArray.dll
+C:\Users\Yanislav\source\repos\LabArrays\8.CondenseArray\bin\Debug\netcoreapp2.1\8.CondenseArray.pdb
+C:\Users\Yanislav\source\repos\LabArrays\8.CondenseArray\obj\Debug\netcoreapp2.1\8.CondenseArray.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\LabArrays\8.CondenseArray\obj\Debug\netcoreapp2.1\8.CondenseArray.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\LabArrays\8.CondenseArray\obj\Debug\netcoreapp2.1\8.CondenseArray.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\LabArrays\8.CondenseArray\obj\Debug\netcoreapp2.1\8.CondenseArray.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\LabArrays\8.CondenseArray\obj\Debug\netcoreapp2.1\8.CondenseArray.dll
+C:\Users\Yanislav\source\repos\LabArrays\8.CondenseArray\obj\Debug\netcoreapp2.1\8.CondenseArray.pdb

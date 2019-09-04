@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\MethodsExercise\10.TopNumber\obj\Debug\netcoreapp2.1\10.TopNumber.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\MethodsExercise\10.TopNumber\obj\Debug\netcoreapp2.1\10.TopNumber.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\MethodsExercise\10.TopNumber\obj\Debug\netcoreapp2.1\10.TopNumber.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\MethodsExercise\10.TopNumber\obj\Debug\netcoreapp2.1\10.TopNumber.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\MethodsExercise\10.TopNumber\bin\Debug\netcoreapp2.1\10.TopNumber.deps.json
+C:\Users\Yanislav\source\repos\MethodsExercise\10.TopNumber\bin\Debug\netcoreapp2.1\10.TopNumber.runtimeconfig.json
+C:\Users\Yanislav\source\repos\MethodsExercise\10.TopNumber\bin\Debug\netcoreapp2.1\10.TopNumber.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\MethodsExercise\10.TopNumber\bin\Debug\netcoreapp2.1\10.TopNumber.dll
+C:\Users\Yanislav\source\repos\MethodsExercise\10.TopNumber\bin\Debug\netcoreapp2.1\10.TopNumber.pdb
+C:\Users\Yanislav\source\repos\MethodsExercise\10.TopNumber\obj\Debug\netcoreapp2.1\10.TopNumber.dll
+C:\Users\Yanislav\source\repos\MethodsExercise\10.TopNumber\obj\Debug\netcoreapp2.1\10.TopNumber.pdb

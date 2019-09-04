@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\InterfacesExercise\04.Telephony\bin\Debug\netcoreapp2.1\04.Telephony.deps.json
+C:\Users\Yanislav\source\repos\InterfacesExercise\04.Telephony\bin\Debug\netcoreapp2.1\04.Telephony.runtimeconfig.json
+C:\Users\Yanislav\source\repos\InterfacesExercise\04.Telephony\bin\Debug\netcoreapp2.1\04.Telephony.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\InterfacesExercise\04.Telephony\bin\Debug\netcoreapp2.1\04.Telephony.dll
+C:\Users\Yanislav\source\repos\InterfacesExercise\04.Telephony\bin\Debug\netcoreapp2.1\04.Telephony.pdb
+C:\Users\Yanislav\source\repos\InterfacesExercise\04.Telephony\obj\Debug\netcoreapp2.1\04.Telephony.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\InterfacesExercise\04.Telephony\obj\Debug\netcoreapp2.1\04.Telephony.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\InterfacesExercise\04.Telephony\obj\Debug\netcoreapp2.1\04.Telephony.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\InterfacesExercise\04.Telephony\obj\Debug\netcoreapp2.1\04.Telephony.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\InterfacesExercise\04.Telephony\obj\Debug\netcoreapp2.1\04.Telephony.dll
+C:\Users\Yanislav\source\repos\InterfacesExercise\04.Telephony\obj\Debug\netcoreapp2.1\04.Telephony.pdb

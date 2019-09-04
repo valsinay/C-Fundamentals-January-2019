@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\Generics\01.BoxOfString\bin\Debug\netcoreapp2.1\01.BoxOfString.deps.json
+C:\Users\Yanislav\source\repos\Generics\01.BoxOfString\bin\Debug\netcoreapp2.1\01.BoxOfString.runtimeconfig.json
+C:\Users\Yanislav\source\repos\Generics\01.BoxOfString\bin\Debug\netcoreapp2.1\01.BoxOfString.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\Generics\01.BoxOfString\bin\Debug\netcoreapp2.1\01.BoxOfString.dll
+C:\Users\Yanislav\source\repos\Generics\01.BoxOfString\bin\Debug\netcoreapp2.1\01.BoxOfString.pdb
+C:\Users\Yanislav\source\repos\Generics\01.BoxOfString\obj\Debug\netcoreapp2.1\01.BoxOfString.csprojAssemblyReference.cache
+C:\Users\Yanislav\source\repos\Generics\01.BoxOfString\obj\Debug\netcoreapp2.1\01.BoxOfString.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\Generics\01.BoxOfString\obj\Debug\netcoreapp2.1\01.BoxOfString.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\Generics\01.BoxOfString\obj\Debug\netcoreapp2.1\01.BoxOfString.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\Generics\01.BoxOfString\obj\Debug\netcoreapp2.1\01.BoxOfString.dll
+C:\Users\Yanislav\source\repos\Generics\01.BoxOfString\obj\Debug\netcoreapp2.1\01.BoxOfString.pdb

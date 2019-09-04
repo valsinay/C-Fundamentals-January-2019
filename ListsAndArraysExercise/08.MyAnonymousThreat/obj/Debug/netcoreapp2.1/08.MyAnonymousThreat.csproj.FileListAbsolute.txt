@@ -1,0 +1,11 @@
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\08.MyAnonymousThreat\bin\Debug\netcoreapp2.1\08.MyAnonymousThreat.deps.json
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\08.MyAnonymousThreat\bin\Debug\netcoreapp2.1\08.MyAnonymousThreat.runtimeconfig.json
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\08.MyAnonymousThreat\bin\Debug\netcoreapp2.1\08.MyAnonymousThreat.runtimeconfig.dev.json
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\08.MyAnonymousThreat\bin\Debug\netcoreapp2.1\08.MyAnonymousThreat.dll
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\08.MyAnonymousThreat\bin\Debug\netcoreapp2.1\08.MyAnonymousThreat.pdb
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\08.MyAnonymousThreat\obj\Debug\netcoreapp2.1\08.MyAnonymousThreat.csproj.CoreCompileInputs.cache
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\08.MyAnonymousThreat\obj\Debug\netcoreapp2.1\08.MyAnonymousThreat.AssemblyInfoInputs.cache
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\08.MyAnonymousThreat\obj\Debug\netcoreapp2.1\08.MyAnonymousThreat.AssemblyInfo.cs
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\08.MyAnonymousThreat\obj\Debug\netcoreapp2.1\08.MyAnonymousThreat.dll
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\08.MyAnonymousThreat\obj\Debug\netcoreapp2.1\08.MyAnonymousThreat.pdb
+C:\Users\Yanislav\source\repos\ListsAndArraysExercise\08.MyAnonymousThreat\obj\Debug\netcoreapp2.1\08.MyAnonymousThreat.csprojAssemblyReference.cache
